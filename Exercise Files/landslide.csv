@@ -1,0 +1,1042 @@
+row_id,date,continent_code,country_name,country_code,state_province,population,city_town,distance,latitude,longitude,hazard_type,landslide_type,landslide_size,trigger
+42,2007-03-22,NA,United States,US,Ohio,17288,New Philadelphia,3.33522,40.5175,-81.4305,Landslide,Landslide,small,Rain
+59,2007-04-14,NA,Canada,CA,Quebec,42786,Châteauguay,2.98682,45.3226,-73.7771,Landslide,Riverbank collapse,small,Rain
+61,2007-04-15,NA,United States,US,Kentucky,6903,Pikeville,5.66542,37.4325,-82.4931,Landslide,Landslide,small,Downpour
+64,2007-04-20,NA,United States,US,Kentucky,6903,Pikeville,0.23715,37.4814,-82.5186,Landslide,Landslide,small,Rain
+67,2007-04-24,NA,United States,US,South Dakota,2540,Dakota Dunes,2.48033,42.4941,-96.4576,Landslide,Landslide,small,Rain
+77,2007-05-21,SA,Colombia,CO,Risaralda,440118,Pereira,0.62022,4.8081,-75.6941,Landslide,Mudslide,large,Rain
+105,2007-06-27,SA,Ecuador,EC,Zamora-Chinchipe,15276,Zamora,0.47714,-4.065,-78.951,Landslide,Landslide,medium,Downpour
+106,2007-06-27,SA,Ecuador,EC,Loja,117796,Loja,0.35649,-3.99,-79.205,Landslide,Landslide,medium,Downpour
+107,2007-06-27,SA,Ecuador,EC,Pichincha,5114,Sangolquí,33.94603,-0.356,-78.148,Landslide,Landslide,medium,Downpour
+124,2007-07-13,NA,Dominican Republic,DO,Distrito Nacional,13456,San Carlos,1.70298,18.4757,-69.914,Landslide,Landslide,small,Unknown
+138,2007-07-24,NA,United States,US,Texas,175396,Grand Prairie,5.66936,32.7883,-97.0317,Landslide,Landslide,small,Rain
+185,2007-08-14,NA,United States,US,Colorado,2475,Meeker,10.87949,39.9425,-107.8818,Landslide,Mudslide,medium,Rain
+186,2007-08-17,NA,Dominica,DM,Saint Paul,702,Pont Cassé,3.39516,15.3379,-61.361,Landslide,Mudslide,small,Tropical cyclone
+187,2007-08-18,NA,United States,US,Minnesota,2868,Caledonia,22.31062,43.596,-91.2256,Landslide,Landslide,medium,Rain
+188,2007-08-18,NA,United States,US,Wyoming,9520,Cody,64.74594,44.4659,-109.8662,Landslide,Landslide,small,Rain
+189,2007-08-18,NA,United States,US,Minnesota,106769,Rochester,0.9999,44.0304,-92.4671,Landslide,Mudslide,small,Rain
+193,2007-08-19,NA,United States,US,Wisconsin,51320,La Crosse,13.62525,43.6796,-91.2194,Landslide,Complex,medium,Rain
+194,2007-08-19,NA,United States,US,Wisconsin,51320,La Crosse,12.91337,43.689,-91.2806,Landslide,Mudslide,medium,Rain
+197,2007-08-20,NA,United States,US,West Virginia,1526,Glendale,3.492,39.958,-80.7935,Landslide,Mudslide,small,Rain
+198,2007-08-21,NA,Guatemala,GT,Alta Verapaz,2006,Lanquín,13.39817,15.6046,-90.0853,Landslide,Landslide,medium,Tropical cyclone
+199,2007-08-21,NA,Guatemala,GT,Izabal,18994,Morales,12.55184,15.5163,-88.9286,Landslide,Landslide,medium,Tropical cyclone
+201,2007-08-23,NA,Mexico,MX,Puebla,1414,Xochitlaxco (San Baltazar),1.68294,19.9333,-97.85,Landslide,Mudslide,medium,Tropical cyclone
+268,2007-09-17,NA,United States,US,Colorado,4518,New Castle,4.25758,39.5542,-107.5798,Landslide,Mudslide,medium,Rain
+277,2007-09-22,NA,Guatemala,GT,Guatemala,994938,Guatemala City,2.79113,14.6229,-90.5316,Landslide,Mudslide,medium,Rain
+284,2007-09-28,NA,Mexico,MX,Puebla,3761,Xaltepuxtla,7.93258,20.2,-97.9,Landslide,Mudslide,medium,Tropical cyclone
+307,2007-10-13,SA,Colombia,CO,Cauca,9985,Suárez,8.46579,2.9437,-76.7719,Landslide,Mudslide,large,Continuous rain
+314,2007-10-17,NA,Jamaica,JM,Saint Thomas,2382,Bath,0.21825,17.95,-76.35,Landslide,Mudslide,medium,Rain
+323,2007-10-24,NA,Costa Rica,CR,Puntarenas,6540,Miramar,3.82425,10.0715,-84.7575,Landslide,Mudslide,medium,Downpour
+333,2007-10-29,NA,Dominican Republic,DO,San Cristóbal,66784,Bajos de Haina,1.72138,18.427,-70.044,Landslide,Mudslide,medium,Tropical cyclone
+334,2007-10-29,NA,Haiti,HT,Ouest,1234742,Port-au-Prince,2.72168,18.5146,-72.3361,Landslide,Complex,medium,Tropical cyclone
+339,2007-10-31,NA,Jamaica,JM,Saint Thomas,2634,Easington,6.5194,17.9384,-76.6479,Landslide,Landslide,medium,Tropical cyclone
+340,2007-10-31,NA,Jamaica,JM,Saint Catherine,4085,Riversdale,5.46381,18.2152,-76.9659,Landslide,Complex,medium,Rain
+341,2007-10-31,NA,Jamaica,JM,Saint Andrew,1088,Gordon Town,0.96514,18.037,-76.7088,Landslide,Landslide,medium,Tropical cyclone
+342,2007-10-31,NA,Mexico,MX,Tabasco,4468,Buenavista,4.19108,17.9493,-92.5534,Landslide,Landslide,medium,Rain
+357,2007-11-17,NA,Trinidad and Tobago,TT,Eastern Tobago,0,Roxborough,7.33295,11.2965,-60.6312,Landslide,Landslide,medium,Rain
+376,2007-11-30,NA,United States,US,California,3117,Rancho Santa Fe,6.48824,33.0409,-117.1378,Landslide,Debris flow,small,Rain
+396,2007-12-16,NA,United States,US,Pennsylvania,3174,Trafford,0.27058,40.3875,-79.7569,Landslide,Landslide,medium,Rain
+397,2007-12-19,SA,Colombia,CO,Tolima,4892,Ambalema,6.9613,4.847,-74.7631,Landslide,Landslide,large,Rain
+436,2008-01-28,NA,United States,US,California,42808,La Jolla,1.15586,32.8464,-117.2619,Landslide,Landslide,medium,Rain
+468,2008-02-28,SA,Ecuador,EC,Napo,7309,Archidona,50.21741,-0.4635,-77.8928,Landslide,Landslide,medium,Rain
+479,2008-03-14,NA,United States,US,Ohio,5091,Toronto,1.02992,40.4634,-80.613,Landslide,Mudslide,small,Rain
+480,2008-03-16,NA,United States,US,Ohio,4741,Mount Carmel,1.17753,39.096,-84.2992,Landslide,Landslide,small,Rain
+485,2008-03-24,NA,United States,US,Ohio,3541,Wellsville,7.05134,40.5573,-80.707,Landslide,Landslide,small,Rain
+487,2008-03-28,NA,United States,US,Kentucky,4407,Ludlow,2.26622,39.1072,-84.5657,Landslide,Landslide,small,Rain
+499,2008-04-13,NA,United States,US,Colorado,6447,Avon,3.03321,39.625,-106.4879,Landslide,Mudslide,small,Rain
+501,2008-04-16,NA,Jamaica,JM,Saint Ann,9450,Ocho Rios,0.53886,18.4054,-77.1007,Landslide,Mudslide,medium,Rain
+506,2008-04-20,NA,Haiti,HT,Ouest,1234742,Port-au-Prince,1.80063,18.5283,-72.3224,Landslide,Mudslide,medium,Rain
+509,2008-04-25,NA,United States,US,Minnesota,27592,Winona,1.7294,44.0344,-91.6396,Landslide,Mudslide,small,Rain
+514,2008-04-29,NA,United States,US,New Hampshire,1813,Newbury,0.08548,43.3207,-72.0358,Landslide,Rockfall,small,Rain
+515,2008-04-29,NA,United States,US,New Hampshire,1142,Whitefield,8.19938,44.4175,-71.6923,Landslide,Mudslide,small,Rain
+546,2008-05-20,NA,United States,US,Kentucky,5723,Fort Wright,0.90111,39.0447,-84.5289,Landslide,Mudslide,small,Rain
+555,2008-05-28,NA,United States,US,Colorado,6658,Aspen,20.14967,39.3707,-106.7839,Landslide,Mudslide,small,Rain
+556,2008-05-29,NA,Costa Rica,CR,Guanacaste,4108,Bagaces,17.65521,10.4024,-85.3555,Landslide,Landslide,medium,Tropical cyclone
+562,2008-05-31,SA,Colombia,CO,Antioquia,1999979,Medellín,5.1217,6.2746,-75.6039,Landslide,Complex,large,Downpour
+590,2008-06-16,NA,United States,US,New York,1031,Hancock,4.46079,41.942,-75.2291,Landslide,Mudslide,small,Rain
+591,2008-06-18,NA,Guatemala,GT,Guatemala,994938,Guatemala City,3.12614,14.651,-90.5403,Landslide,Complex,medium,Rain
+597,2008-06-20,NA,United States,US,Arkansas,466,Jasper,30.98796,35.7885,-92.9331,Landslide,Mudslide,small,Rain
+605,2008-06-24,SA,Colombia,CO,Norte de Santander,1502,Hacarí ,0.38844,8.32,-73.15,Landslide,Landslide,medium,Downpour
+617,2008-06-29,NA,United States,US,New Jersey,34457,Orange,3.31974,40.78,-74.27,Landslide,Mudslide,small,Rain
+643,2008-07-13,NA,United States,US,Colorado,16887,Durango,2.94432,37.25,-107.87,Landslide,Mudslide,medium,Downpour
+644,2008-07-14,SA,Colombia,CO,Cundinamarca,1374,Quetame,8.58891,4.41,-73.86,Landslide,Landslide,medium,Downpour
+649,2008-07-16,NA,United States,US,Wisconsin,1887,Brice Prairie,6.28666,43.89,-91.34,Landslide,Mudslide,small,Flooding
+650,2008-07-17,SA,Colombia,CO,Antioquia,2214,Briceño,6.44532,7.16,-75.52,Landslide,Landslide,medium,Rain
+656,2008-07-21,NA,Guatemala,GT,Zacapa,3682,La Unión,0.8064,14.97,-89.29,Landslide,Mudslide,medium,Tropical cyclone
+658,2008-07-22,NA,United States,US,Colorado,2826,Snowmass Village,10.78549,39.31,-106.93,Landslide,Mudslide,small,Downpour
+659,2008-07-22,NA,United States,US,Idaho,2991,McCall,29.97781,44.93,-115.72,Landslide,Mudslide,medium,Downpour
+660,2008-07-22,NA,United States,US,Idaho,3112,Salmon,25.30277,44.98,-114.06,Landslide,Mudslide,medium,Downpour
+675,2008-07-28,NA,United States,US,Colorado,3068,Walsenburg,32.15868,37.5588,-105.135,Landslide,Mudslide,small,Downpour
+724,2008-08-17,NA,Dominican Republic,DO,Hato Mayor,13977,Sabana de La Mar,0.75284,19.056,-69.3822,Landslide,Complex,medium,Tropical cyclone
+728,2008-08-18,SA,Colombia,CO,Antioquia,65565,Caldas,1.27637,6.08,-75.639,Landslide,Landslide,medium,Rain
+729,2008-08-18,SA,Colombia,CO,Córdoba,55513,Cereté,0.68544,8.8856,-75.7967,Landslide,Landslide,medium,Rain
+742,2008-08-23,NA,United States,US,Colorado,5236,Salida,8.16325,38.498,-106.08,Landslide,Mudslide,small,Rain
+743,2008-08-24,NA,United States,US,Colorado,1646,Perry Park,17.16659,39.2228,-105.1865,Landslide,Mudslide,medium,Rain
+744,2008-08-25,NA,Mexico,MX,México,7182,San Francisco Chimalpa,2.59637,19.436,-99.365,Landslide,Mudslide,medium,Downpour
+746,2008-08-26,NA,Dominican Republic,DO,Distrito Nacional,10457,La Agustina,5.71058,18.55,-69.92,Landslide,Mudslide,medium,Tropical cyclone
+747,2008-08-26,NA,Haiti,HT,Sud-Est,137966,Jacmel,4.41574,18.264,-72.507,Landslide,Landslide,medium,Tropical cyclone
+748,2008-08-26,NA,Haiti,HT,Ouest,1234742,Port-au-Prince,3.50201,18.509,-72.345,Landslide,Mudslide,medium,Tropical cyclone
+750,2008-08-26,NA,Panama,PA,Panamá,1287,Cerro Azul,1.84596,9.1559,-79.4295,Landslide,Landslide,medium,Downpour
+751,2008-08-26,NA,United States,US,North Carolina,1192,Lake Lure,0.85349,35.4213,-82.2,Landslide,Mudslide,small,Rain
+756,2008-08-28,NA,Jamaica,JM,Saint Andrew,1821,Mavis Bank,9.83051,18.0388,-76.574,Landslide,Landslide,medium,Tropical cyclone
+757,2008-08-28,NA,United States,US,North Carolina,1192,Lake Lure,5.17876,35.4437,-82.2585,Landslide,Mudslide,small,Tropical cyclone
+800,2008-09-20,NA,United States,US,Idaho,1406,Sun Valley,1.58679,43.7,-114.371,Landslide,Mudslide,small,Downpour
+845,2008-10-15,NA,Costa Rica,CR,Puntarenas,6777,Golfito,11.74074,8.67,-83.064,Landslide,Landslide,medium,Downpour
+848,2008-10-16,NA,Costa Rica,CR,Puntarenas,6540,Miramar,8.92048,10.111,-84.809,Landslide,Complex,medium,Downpour
+852,2008-10-18,NA,Guatemala,GT,Chimaltenango,5987,San José Poaquil,5.31511,14.8667,-90.9167,Landslide,Landslide,medium,Tropical cyclone
+854,2008-10-19,NA,Honduras,HN,Copán,4752,Corquín,0.43391,14.5637,-88.8693,Landslide,Landslide,large,Tropical cyclone
+855,2008-10-20,NA,Honduras,HN,Francisco Morazán ,850848,Tegucigalpa,2.99239,14.108,-87.2137,Landslide,Mudslide,large,Tropical cyclone
+857,2008-10-22,NA,Barbados,BB,Saint Joseph,1765,Bathsheba,2.87363,13.229,-59.54,Landslide,Mudslide,medium,Downpour
+867,2008-10-28,NA,Guatemala,GT,Huehuetenango,1311,San Sebastián Huehuetenango,1.58358,15.376,-91.596,Landslide,Mudslide,medium,Downpour
+889,2008-11-16,SA,Colombia,CO,Antioquia,1999979,Medellín,4.09028,6.217,-75.576,Landslide,Mudslide,large,Downpour
+891,2008-11-16,NA,Trinidad and Tobago,TT,City of Port of Spain,49031,Port-of-Spain,1.07831,10.676,-61.516,Landslide,Complex,medium,Downpour
+896,2008-11-20,SA,Venezuela,VE,Distrito Federal,3000000,Caracas,2.92493,10.466,-66.894,Landslide,Mudslide,medium,Downpour
+904,2008-11-24,SA,Colombia,CO,Cauca,13223,Miranda,0.70558,3.2468,-76.2226,Landslide,Mudslide,medium,Downpour
+905,2008-11-25,NA,Panama,PA,Chiriquí,6123,Boquete,9.837,8.787,-82.344,Landslide,Complex,medium,Downpour
+908,2008-11-26,NA,United States,US,California,9277,Valley Center,14.4377,33.3,-116.9135,Landslide,Debris flow,medium,Rain
+928,2008-12-14,NA,Guatemala,GT,Izabal,18994,Morales,23.92309,15.3796,-90.5316,Landslide,Mudslide,medium,Rain
+937,2008-12-17,NA,United States,US,California,3148,Fairbanks Ranch,8.33509,33.023,-117.105,Landslide,Mudslide,small,Rain
+938,2008-12-18,NA,Trinidad and Tobago,TT,Diego Martin,8140,Petit Valley,5.91101,10.735,-61.4925,Landslide,Mudslide,medium,Downpour
+939,2008-12-19,NA,Trinidad and Tobago,TT,Diego Martin,8140,Petit Valley,2.24772,10.716,-61.546,Landslide,Complex,medium,Downpour
+941,2008-12-20,NA,Trinidad and Tobago,TT,Penal/Debe,12281,"Peñal,",2.57071,10.158,-61.4449,Landslide,Mudslide,medium,Downpour
+946,2008-12-22,NA,United States,US,California,3841,Harbison Canyon,1.91206,32.8273,-116.8487,Landslide,Complex,small,Downpour
+947,2008-12-22,NA,United States,US,Tennessee,5934,Kingston,2.61361,35.9,-84.5255,Landslide,Lahar,medium,Dam embankment collapse
+975,2009-01-22,NA,Mexico,MX,The Federal District,12294193,Mexico City,0.15208,19.4271,-99.1276,Landslide,Landslide,medium,Downpour
+996,2009-03-19,SA,Colombia,CO,Huila,4444,Hobo,10.1804,2.5384,-75.5299,Landslide,Mudslide,medium,Continuous rain
+1003,2009-04-13,NA,United States,US,Virginia,1463,East Lexington,10.60458,37.8826,-79.3838,Landslide,Mudslide,small,Downpour
+1004,2009-04-14,SA,Peru,PE,La Libertad,0,Parcoy,9.64894,-7.9589,-77.5239,Landslide,Mudslide,medium,Downpour
+1005,2009-04-14,SA,Peru,PE,La Libertad,0,Aricapampa,0.00442,-7.8058,-77.7172,Landslide,Mudslide,medium,Downpour
+1006,2009-04-14,NA,United States,US,Utah,33433,Cottonwood Heights,1.90486,40.6235,-111.7443,Landslide,Rockfall,small,Rain
+1007,2009-04-15,NA,United States,US,Utah,20816,East Millcreek,1.68712,40.7118,-111.798,Landslide,Rockfall,small,Rain
+1008,2009-04-15,NA,United States,US,Utah,10062,Canyon Rim,8.13917,40.7676,-111.7669,Landslide,Rockfall,small,Rain
+1010,2009-04-20,NA,United States,US,Virginia,1463,East Lexington,13.41471,37.9137,-79.4305,Landslide,Mudslide,small,Downpour
+1011,2009-04-20,NA,United States,US,Colorado,97385,Boulder,15.14802,40.1162,-105.3896,Landslide,Mudslide,small,Rain
+1014,2009-04-24,SA,Colombia,CO,Córdoba,59188,Sahagún,0.14776,8.9475,-75.4428,Landslide,Mudslide,large,Downpour
+1026,2009-05-17,NA,United States,US,North Carolina,18228,Lenoir,9.72793,35.9993,-81.564,Landslide,Mudslide,small,Downpour
+1033,2009-05-30,NA,United States,US,West Virginia,1142,Hamlin,11.50494,38.1761,-82.0843,Landslide,Mudslide,small,Unknown
+1038,2009-06-18,NA,United States,US,Utah,42274,Draper,0.79003,40.53,-111.87,Landslide,Landslide,medium,Downpour
+1039,2009-06-19,NA,United States,US,North Carolina,3776,Hudson,10.3356,35.91,-81.41,Landslide,Rockfall,medium,Downpour
+1040,2009-06-21,NA,United States,US,Idaho,2689,Ketchum,1.27144,43.6883,-114.3755,Landslide,Mudslide,small,Downpour
+1069,2009-07-31,NA,United States,US,Kentucky,5338,Dayton,2.30977,39.1224,-84.449,Landslide,Mudslide,small,Rain
+1105,2009-08-19,NA,United States,US,Kentucky,31577,Hopkinsville,15.49105,36.89,-87.6597,Landslide,Landslide,small,Unknown
+1116,2009-08-20,NA,United States,US,Wisconsin,5911,Prairie du Chien,3.41664,43.0421,-91.1811,Landslide,Landslide,small,Rain
+1117,2009-08-21,NA,Trinidad and Tobago,TT,City of San Fernando,26700,Marabella,9.42494,10.3717,-61.3917,Landslide,Landslide,small,Downpour
+1167,2009-09-15,NA,Mexico,MX,The Federal District,228927,Magdalena Contreras,3.49173,19.3161,-99.2398,Landslide,Mudslide,medium,Downpour
+1177,2009-09-20,NA,Dominican Republic,DO,Puerto Plata,4563,Altamira,0.885,19.675,-70.8362,Landslide,Landslide,medium,Downpour
+1178,2009-09-20,NA,Dominican Republic,DO,Santiago,23304,Tamboril,4.31327,19.5167,-70.5866,Landslide,Landslide,small,Downpour
+1180,2009-09-20,NA,United States,US,Georgia,3410,Cleveland,15.92157,34.6768,-83.9076,Landslide,Mudslide,small,Downpour
+1182,2009-09-21,NA,United States,US,Alabama,3485,Livingston,26.97874,32.804,-88.3108,Landslide,Mudslide,medium,Downpour
+1183,2009-09-21,NA,United States,US,Georgia,5802,Stone Mountain,2.07317,33.8232,-84.1569,Landslide,Mudslide,small,Downpour
+1184,2009-09-21,NA,United States,US,Georgia,1602,Lookout Mountain,0.80279,34.977,-85.3665,Landslide,Mudslide,medium,Rain
+1185,2009-09-21,NA,United States,US,North Carolina,7609,Brevard,3.61918,35.2594,-82.7102,Landslide,Landslide,small,Downpour
+1186,2009-12-28,SA,Ecuador,EC,Santo Domingo de los Tsáchilas,200421,Santo Domingo de los Colorados,1.16036,-0.3152,-78.9724,Landslide,Mudslide,medium,Downpour
+1194,2009-09-26,NA,United States,US,Georgia,2301,Trenton,1.12077,34.8695,-85.521,Landslide,Mudslide,medium,Downpour
+1195,2009-09-26,NA,United States,US,Tennessee,3944,Gatlinburg,4.11813,35.7102,-83.5554,Landslide,Mudslide,small,Downpour
+1265,2009-10-17,NA,United States,US,Kentucky,365,Hyden,10.0765,37.0702,-83.3777,Landslide,Rockfall,small,Downpour
+1266,2009-10-20,NA,Haiti,HT,Ouest,442156,Carrefour,1.31659,18.5347,-72.4097,Landslide,Landslide,small,Downpour
+1296,2009-11-13,NA,Costa Rica,CR,Puntarenas,3981,San Vito,18.00524,8.8021,-83.1335,Landslide,Landslide,medium,Earthquake
+1307,2009-11-17,NA,United States,US,Illinois,27865,Alton,1.54044,38.898,-90.1993,Landslide,Mudslide,small,Downpour
+1358,2009-12-13,NA,United States,US,California,4862,Running Springs,8.91845,34.2425,-117.0219,Landslide,Complex,small,Downpour
+1367,2009-12-18,NA,United States,US,Mississippi,2175,Purvis,17.4013,31.1345,-89.2276,Landslide,Mudslide,small,Downpour
+1431,2010-01-21,NA,United States,US,California,9277,Valley Center,5.7125,33.1677,-117.0232,Landslide,Mudslide,small,Downpour
+1434,2010-01-21,NA,United States,US,Arizona,1424,Tonto Basin,16.48124,33.8342,-111.4726,Landslide,Complex,small,Downpour
+1435,2010-01-21,NA,United States,US,California,3552,Morongo Valley,1.35292,34.0373,-116.5898,Landslide,Debris flow,small,Downpour
+1439,2010-01-21,NA,United States,US,California,1128,Aguanga,12.95887,33.4685,-117.001,Landslide,Mudslide,small,Downpour
+1441,2010-01-22,NA,United States,US,Arizona,2633,Cordes Lakes,12.98377,34.1933,-112.1327,Landslide,Mudslide,small,Downpour
+1448,2010-01-24,NA,United States,US,North Carolina,2937,Rural Hall,7.54867,36.2967,-80.2462,Landslide,Mudslide,small,Downpour
+1449,2010-01-24,NA,United States,US,Tennessee,4577,Madisonville,8.55137,35.4962,-84.2738,Landslide,Mudslide,small,Downpour
+1450,2010-01-24,NA,United States,US,Tennessee,7554,Signal Mountain,2.56584,35.1328,-85.3186,Landslide,Mudslide,small,Downpour
+1452,2010-01-25,NA,United States,US,Tennessee,12714,Soddy-Daisy,3.20504,35.2361,-85.226,Landslide,Complex,small,Downpour
+1453,2010-01-25,NA,United States,US,Pennsylvania,305704,Pittsburgh,1.49656,40.4355,-80.0122,Landslide,Mudslide,small,Downpour
+1454,2010-01-25,NA,United States,US,Connecticut,1212,Canaan,10.75115,41.9953,-73.2068,Landslide,Mudslide,small,Downpour
+1455,2010-01-25,NA,United States,US,North Carolina,2441,Tobaccoville,2.39331,36.2592,-80.3654,Landslide,Mudslide,small,Downpour
+1456,2010-01-26,NA,United States,US,Kentucky,1255,Manchester,5.79962,37.1016,-83.7568,Landslide,Complex,medium,Downpour
+1459,2010-01-28,SA,Peru,PE,Ancash,0,Anta,0.13147,-9.3584,-77.5984,Landslide,Complex,medium,Downpour
+1506,2010-02-15,NA,Haiti,HT,Nord,134815,Cap-Haïtien,0.27505,19.756,-72.206,Landslide,Mudslide,medium,Downpour
+1525,2010-02-25,NA,United States,US,California,29603,Banning,2.18534,33.9062,-116.8721,Landslide,Complex,small,Rain
+1531,2010-02-27,NA,United States,US,California,209924,San Bernardino,1.18379,34.1102,-117.3024,Landslide,Mudslide,small,Downpour
+1564,2010-03-13,NA,United States,US,West Virginia,6432,Princeton,7.04356,37.3042,-81.1194,Landslide,Mudslide,medium,Downpour
+1565,2010-03-13,NA,United States,US,New Jersey,9916,Lake Mohawk,4.41013,41.0469,-74.6236,Landslide,Mudslide,medium,Downpour
+1566,2010-03-13,NA,United States,US,West Virginia,3572,Summersville,6.25122,38.3182,-80.7987,Landslide,Landslide,medium,Downpour
+1567,2010-03-14,NA,United States,US,Ohio,6397,Jackson,13.05284,38.9632,-82.7353,Landslide,Mudslide,small,Downpour
+1568,2010-03-14,NA,United States,US,Massachusetts,2717,Topsfield,1.03712,42.6428,-70.939,Landslide,Mudslide,medium,Downpour
+1569,2010-03-14,NA,United States,US,New Jersey,2410,Ogdensburg,0.77081,41.0752,-74.5894,Landslide,Mudslide,medium,Downpour
+1570,2010-03-14,NA,United States,US,North Carolina,620,Robbinsville,23.26062,35.5001,-83.9442,Landslide,Landslide,medium,Downpour
+1575,2010-03-15,NA,United States,US,Massachusetts,7389,Clinton,1.25138,42.4135,-71.6974,Landslide,Mudslide,small,Rain
+1576,2010-03-15,NA,United States,US,Massachusetts,5918,Walpole,2.73316,42.1433,-71.2165,Landslide,Landslide,small,Downpour
+1578,2010-03-16,NA,United States,US,Pennsylvania,2528,New Hope,6.71244,40.4059,-75.0086,Landslide,Mudslide,small,Downpour
+1579,2010-03-18,NA,United States,US,Tennessee,3944,Gatlinburg,11.83863,35.6733,-83.6643,Landslide,Landslide,small,Downpour
+1584,2010-03-21,NA,United States,US,Ohio,1311,Salineville,10.58008,40.5399,-80.9,Landslide,Landslide,small,Downpour
+1591,2010-03-25,NA,United States,US,Alabama,2264,Good Hope,22.45613,34.0844,-87.104,Landslide,Landslide,medium,Downpour
+1595,2010-03-26,NA,United States,US,New York,1113,Worcester,7.59235,42.5435,-74.8163,Landslide,Landslide,small,Downpour
+1599,2010-03-29,NA,United States,US,Tennessee,3944,Gatlinburg,14.56419,35.6024,-83.426,Landslide,Mudslide,small,Downpour
+1601,2010-03-30,NA,United States,US,Connecticut,47648,Middletown,1.40994,41.5663,-72.6667,Landslide,Landslide,small,Rain
+1602,2010-03-30,NA,United States,US,New York,7612,Sound Beach,0.94386,40.9647,-72.9684,Landslide,Mudslide,small,Downpour
+1603,2010-03-30,NA,United States,US,New York,195976,Yonkers,3.28687,40.904,-73.9141,Landslide,Mudslide,small,Downpour
+1604,2010-03-30,NA,United States,US,Iowa,11051,Fort Madison,2.69877,40.635,-91.284,Landslide,Mudslide,medium,Rain
+1605,2010-03-30,NA,United States,US,Iowa,11051,Fort Madison,2.69877,40.635,-91.284,Landslide,Landslide,small,Rain
+1606,2010-03-30,NA,United States,US,Maine,7794,Winslow,0.76489,44.5407,-69.625,Landslide,Landslide,small,Downpour
+1608,2010-03-31,NA,United States,US,New Hampshire,1108,Greenville,0.29408,42.7679,-71.8158,Landslide,Landslide,medium,Rain
+1749,2010-04-14,NA,Costa Rica,CR,Alajuela,14448,Desamparados,6.88715,9.9323,-84.4453,Landslide,Landslide,medium,Downpour
+1751,2010-04-14,SA,Colombia,CO,Cundinamarca,130289,Girardot,0.30587,4.3013,-74.8055,Landslide,Landslide,medium,Downpour
+1754,2010-04-16,NA,Dominica,DM,Saint Paul,702,Pont Cassé,6.4593,15.3211,-61.3124,Landslide,Landslide,medium,Downpour
+1760,2010-04-18,NA,Jamaica,JM,Saint Thomas,2634,Easington,4.53632,17.9647,-76.5835,Landslide,Landslide,medium,Downpour
+1761,2010-04-18,NA,Jamaica,JM,Clarendon,4514,Chapelton,9.53953,18.1437,-77.331,Landslide,Landslide,medium,Downpour
+1762,2010-04-18,NA,Jamaica,JM,Clarendon,44755,May Pen,0.56186,17.9693,-77.2433,Landslide,Landslide,medium,Downpour
+1763,2010-04-18,NA,Jamaica,JM,Portland,2757,Buff Bay,2.78885,18.2106,-76.6735,Landslide,Landslide,medium,Downpour
+1764,2010-04-18,NA,Jamaica,JM,Portland,14400,Port Antonio,4.46942,18.1865,-76.5029,Landslide,Landslide,medium,Downpour
+1784,2010-04-25,NA,United States,US,Tennessee,2694,Clifton,10.07129,35.2995,-87.966,Landslide,Landslide,medium,Downpour
+1786,2010-04-27,NA,Costa Rica,CR,Heredia,1355,Ángeles,19.51432,10.1452,-83.9564,Landslide,Landslide,medium,Downpour
+1859,2010-05-14,NA,United States,US,Missouri,4208,North Kansas City,5.24463,39.155,-94.5107,Landslide,Mudslide,small,Downpour
+1869,2010-05-16,NA,United States,US,Kentucky,1883,Salyersville,7.52656,37.6921,-83.0302,Landslide,Landslide,small,Downpour
+1872,2010-05-17,NA,United States,US,West Virginia,51400,Charleston,1.68022,38.3534,-81.6513,Landslide,Mudslide,small,Downpour
+1886,2010-05-22,NA,Costa Rica,CR,Alajuela,14448,Desamparados,6.92174,9.929,-84.4428,Landslide,Landslide,medium,Downpour
+1891,2010-05-23,NA,United States,US,North Carolina,872,Marshall,16.47911,35.7117,-82.8329,Landslide,Mudslide,small,Downpour
+1892,2010-05-23,SA,Colombia,CO,Meta,16678,Puerto López,22.53724,3.8844,-72.9175,Landslide,Landslide,medium,Downpour
+1900,2010-05-24,NA,United States,US,Utah,10062,Canyon Rim,0.75491,40.7134,-111.8224,Landslide,Landslide,small,Rain
+1904,2010-05-26,NA,Guatemala,GT,Quetzaltenango,11913,Almolonga,0.77254,14.8123,-91.4944,Landslide,Mudslide,medium,Tropical cyclone
+1909,2010-05-27,SA,Colombia,CO,Cundinamarca,313945,Soacha,10.36239,4.5326,-74.1359,Landslide,Landslide,medium,Downpour
+1914,2010-05-29,NA,Guatemala,GT,Escuintla,31329,Palín,0.18542,14.4039,-90.6986,Landslide,Mudslide,medium,Tropical cyclone
+1915,2010-05-29,NA,Guatemala,GT,Guatemala,71836,Amatitlán,2.02891,14.4789,-90.6319,Landslide,Mudslide,medium,Tropical cyclone
+1916,2010-05-29,NA,Guatemala,GT,Guatemala,97172,Chinautla,0.44764,14.6969,-90.444,Landslide,Landslide,medium,Tropical cyclone
+1917,2010-05-29,NA,Guatemala,GT,Sacatepéquez,15529,Santa María De Jesús,6.13527,14.4651,-90.7426,Landslide,Mudslide,medium,Tropical cyclone
+1919,2010-05-30,NA,Guatemala,GT,Guatemala,994938,Guatemala City,4.0793,14.6066,-90.5276,Landslide,Landslide,large,Tropical cyclone
+1920,2010-05-30,NA,Guatemala,GT,Sololá,1422,Santa Cruz La Laguna,6.00513,14.6918,-91.1168,Landslide,Mudslide,medium,Tropical cyclone
+1921,2010-05-30,NA,Guatemala,GT,Chimaltenango,2396,Santa Apolonia,0.99952,14.7833,-90.9667,Landslide,Landslide,medium,Tropical cyclone
+1922,2010-05-29,NA,Guatemala,GT,Sololá,9681,San Pedro La Laguna,0.50611,14.6685,-91.2697,Landslide,Mudslide,medium,Tropical cyclone
+1923,2010-05-30,NA,Guatemala,GT,Guatemala,47247,San José Pinula,0.8904,14.549,-90.4191,Landslide,Mudslide,medium,Tropical cyclone
+1924,2010-05-30,NA,Guatemala,GT,Quiché,11046,San Juan Cotzal,8.93658,15.4446,-90.9516,Landslide,Landslide,medium,Tropical cyclone
+1925,2010-05-30,NA,Guatemala,GT,Totonicapán,69734,Totonicapán,0.17513,14.9102,-91.3605,Landslide,Landslide,medium,Tropical cyclone
+1965,2010-06-13,NA,United States,US,West Virginia,1654,Mallory,5.45758,37.755,-81.8917,Landslide,Mudslide,medium,Downpour
+2007,2010-06-21,NA,United States,US,Indiana,67140,Lafayette,6.08613,40.425,-86.8044,Landslide,Landslide,small,Downpour
+2010,2010-06-23,NA,United States,US,Minnesota,2868,Caledonia,18.20633,43.6229,-91.2718,Landslide,Mudslide,small,Downpour
+2011,2010-06-23,NA,United States,US,Wisconsin,5184,Richland Center,16.88781,43.3321,-90.595,Landslide,Landslide,medium,Downpour
+2021,2010-06-27,NA,Guatemala,GT,Sololá,6186,San Pablo La Laguna,3.85753,14.7801,-91.2764,Landslide,Landslide,medium,Tropical cyclone
+2027,2010-06-28,NA,United States,US,Colorado,2617,Buena Vista,13.11084,38.7275,-106.167,Landslide,Landslide,small,Downpour
+2028,2010-06-28,NA,United States,US,New York,10545,Canandaigua,8.27871,42.8004,-77.3018,Landslide,Mudslide,small,Downpour
+2065,2010-07-13,NA,United States,US,New York,1041,Naples,14.77042,42.7167,-77.5191,Landslide,Complex,medium,Downpour
+2066,2010-07-13,NA,United States,US,West Virginia,1860,Saint Marys,0.76491,39.3937,-81.1966,Landslide,Mudslide,small,Downpour
+2085,2010-07-16,NA,Canada,CA,Ontario,33232,Ancaster,5.1151,43.2453,-79.9367,Landslide,Mudslide,medium,Downpour
+2086,2010-07-16,NA,United States,US,Georgia,9432,Jefferson,7.58207,34.1538,-83.6417,Landslide,Landslide,small,Downpour
+2093,2010-07-18,NA,Honduras,HN,Francisco Morazán ,850848,Tegucigalpa,1.24404,14.0814,-87.1953,Landslide,Landslide,medium,Downpour
+2101,2010-07-20,NA,United States,US,Arizona,65870,Flagstaff,11.50738,35.2902,-111.5932,Landslide,Debris flow,medium,Downpour
+2107,2010-07-21,NA,Guatemala,GT,Guatemala,97172,Chinautla,3.85648,14.6808,-90.5214,Landslide,Landslide,medium,Downpour
+2108,2010-07-21,NA,United States,US,West Virginia,49138,Huntington,2.97869,38.4262,-82.4781,Landslide,Landslide,medium,Downpour
+2114,2010-07-22,NA,Mexico,MX,Chiapas,9570,Escuintla,1.41805,15.3258,-92.6698,Landslide,Mudslide,medium,Downpour
+2115,2010-07-22,NA,Mexico,MX,Chiapas,128996,San Cristóbal de las Casas,0.94118,16.7294,-92.6389,Landslide,Rockfall,small,Downpour
+2123,2010-07-23,NA,United States,US,Colorado,16887,Durango,4.891,37.2743,-107.9352,Landslide,Rockfall,small,Downpour
+2124,2010-07-23,NA,United States,US,New Mexico,9051,Socorro,25.68212,33.9917,-107.1577,Landslide,Landslide,small,Downpour
+2142,2010-07-26,NA,United States,US,Colorado,1320,Mountain Village,17.96218,38.0053,-108.0383,Landslide,Mudslide,medium,Downpour
+2149,2010-07-27,NA,United States,US,Colorado,1320,Mountain Village,27.47506,38.0604,-108.1234,Landslide,Mudslide,medium,Downpour
+2150,2010-07-27,NA,United States,US,Kentucky,5955,Bellevue,0.99029,39.0981,-84.4748,Landslide,Landslide,small,Downpour
+2156,2010-07-29,NA,Trinidad and Tobago,TT,Diego Martin,8140,Petit Valley,4.00979,10.6859,-61.5671,Landslide,Landslide,small,Downpour
+2157,2010-07-29,NA,Trinidad and Tobago,TT,City of Port of Spain,4342,Mucurapo,7.4331,10.6871,-61.6002,Landslide,Landslide,small,Downpour
+2158,2010-07-29,NA,Trinidad and Tobago,TT,City of Port of Spain,49031,Port-of-Spain,2.15046,10.6738,-61.5006,Landslide,Landslide,small,Downpour
+2174,2010-07-30,NA,Costa Rica,CR,Alajuela,14448,Desamparados,4.24199,9.9271,-84.4568,Landslide,Landslide,medium,Rain
+2175,2010-07-30,SA,Colombia,CO,Magdalena,88311,Ciénaga,51.84125,11.0029,-73.7733,Landslide,Mudslide,medium,Downpour
+2179,2010-07-31,NA,United States,US,Colorado,6427,Carbondale,23.83031,39.1883,-107.2341,Landslide,Mudslide,medium,Rain
+2265,2010-08-18,NA,United States,US,Tennessee,1497,Banner Hill,1.77572,36.1364,-82.443,Landslide,Complex,medium,Downpour
+2269,2010-08-19,NA,United States,US,Utah,42274,Draper,3.22031,40.5093,-111.8316,Landslide,Complex,medium,Downpour
+2270,2010-08-19,NA,United States,US,Colorado,6427,Carbondale,24.1344,39.191,-107.2774,Landslide,Mudslide,medium,Downpour
+2271,2010-08-19,NA,United States,US,Colorado,6427,Carbondale,22.55763,39.1994,-107.2271,Landslide,Mudslide,medium,Downpour
+2272,2010-08-19,NA,United States,US,Colorado,6427,Carbondale,23.56048,39.1905,-107.2301,Landslide,Mudslide,medium,Downpour
+2273,2010-08-19,NA,United States,US,Colorado,6427,Carbondale,21.37674,39.2105,-107.2343,Landslide,Mudslide,medium,Downpour
+2274,2010-08-19,NA,United States,US,Colorado,2826,Snowmass Village,4.60739,39.2089,-106.9909,Landslide,Mudslide,small,Downpour
+2275,2010-08-19,NA,United States,US,Colorado,2826,Snowmass Village,3.844,39.2143,-106.9823,Landslide,Mudslide,small,Downpour
+2276,2010-08-19,NA,United States,US,Colorado,6427,Carbondale,4.51715,39.4346,-107.2429,Landslide,Mudslide,small,Downpour
+2277,2010-08-19,NA,United States,US,Colorado,9614,Glenwood Springs,3.60875,39.5808,-107.3401,Landslide,Mudslide,medium,Downpour
+2278,2010-08-19,NA,United States,US,Utah,5046,Moab,38.50248,38.647,-109.9818,Landslide,Landslide,medium,Downpour
+2289,2010-08-20,NA,Nicaragua,NI,Managua,16469,El Crucero,5.84054,12.042,-86.2998,Landslide,Mudslide,medium,Downpour
+2300,2010-08-21,NA,Trinidad and Tobago,TT,City of San Fernando,55419,San Fernando,0.92162,10.2753,-61.4689,Landslide,Landslide,medium,Downpour
+2321,2010-08-24,NA,Mexico,MX,Oaxaca,1099,Santiago Choapam,16.16369,17.2568,-96.0289,Landslide,Mudslide,medium,Tropical cyclone
+2322,2010-08-24,NA,Mexico,MX,Oaxaca,1701,Santa María la Asunción,0.6355,18.106,-96.8133,Landslide,Mudslide,medium,Tropical cyclone
+2330,2010-08-25,NA,Nicaragua,NI,Jinotega,2367,San José de Bocay,1.36745,13.5317,-85.5325,Landslide,Landslide,medium,Downpour
+2331,2010-08-25,SA,Colombia,CO,Santander,18739,Málaga ,2.99929,6.7254,-72.726,Landslide,Landslide,medium,Downpour
+2333,2010-08-25,NA,United States,US,California,51367,Yucaipa,11.06641,34.0935,-116.9472,Landslide,Mudslide,small,Downpour
+2348,2010-08-28,NA,Guatemala,GT,Guatemala,473080,Mixco,2.10418,14.6257,-90.5885,Landslide,Landslide,medium,Downpour
+2349,2010-08-28,NA,Guatemala,GT,Guatemala,473080,Mixco,3.64749,14.665,-90.6158,Landslide,Landslide,medium,Downpour
+2350,2010-08-28,NA,Guatemala,GT,Guatemala,67994,Santa Catarina Pinula,2.81128,14.5624,-90.5205,Landslide,Landslide,medium,Downpour
+2351,2010-08-28,NA,Guatemala,GT,Chiquimula,1623,San Juan Ermita,6.15103,14.7161,-89.4096,Landslide,Landslide,medium,Downpour
+2352,2010-08-28,NA,Guatemala,GT,Huehuetenango,2121,Malacatancito,0.0328,15.2164,-91.5168,Landslide,Landslide,medium,Downpour
+2353,2010-08-28,NA,Guatemala,GT,Sololá,2605,San Andrés Semetabaj,0.00359,14.7598,-91.1287,Landslide,Landslide,medium,Downpour
+2354,2010-08-28,NA,Guatemala,GT,Alta Verapaz,5633,Senahú,2.30104,15.4168,-89.8207,Landslide,Mudslide,medium,Downpour
+2356,2010-08-28,SA,Colombia,CO,Santander,18739,Málaga ,2.99929,6.7254,-72.726,Landslide,Landslide,medium,Downpour
+2358,2010-08-29,NA,Honduras,HN,Francisco Morazán ,2288,Santa Lucía,4.75791,14.1015,-87.1607,Landslide,Rockfall,medium,Downpour
+2418,2010-09-13,NA,Jamaica,JM,Portland,1119,Moore Town,0.59599,18.0723,-76.4254,Landslide,Landslide,medium,Downpour
+2438,2010-09-17,NA,Mexico,MX,Veracruz-Llave,1324,El Hatito,8.28739,19.2818,-96.3149,Landslide,Landslide,medium,Tropical cyclone
+2449,2010-09-19,NA,Trinidad and Tobago,TT,Couva-Tabaquite-Talparo,3314,Tabaquite,6.91642,10.4476,-61.3169,Landslide,Landslide,medium,Downpour
+2451,2010-09-19,NA,United States,US,Virginia,11285,Madison Heights,1.20498,37.4204,-79.12,Landslide,Mudslide,small,Downpour
+2473,2010-09-20,SA,Venezuela,VE,Vargas,52564,Maiquetía,6.65506,10.5363,-66.9492,Landslide,Landslide,medium,Downpour
+2474,2010-09-20,NA,Mexico,MX,México,9267,Villa Guerrero,1.06048,18.9642,-99.6511,Landslide,Landslide,large,Downpour
+2487,2010-09-22,NA,United States,US,Arizona,1424,Tonto Basin,1.86032,33.8468,-111.2858,Landslide,Complex,medium,Downpour
+2490,2010-09-23,NA,Canada,CA,Quebec,17016,Saint-Lazare,3.16544,45.3717,-74.1359,Landslide,Landslide,medium,Downpour
+2491,2010-09-23,NA,United States,US,Wisconsin,6448,Lake Hallie,2.43595,44.8545,-91.4334,Landslide,Mudslide,small,Downpour
+2503,2010-09-26,NA,El Salvador,SV,Ahuachapán,5055,Tacuba,5.29901,13.8601,-89.9044,Landslide,Landslide,medium,Tropical cyclone
+2507,2010-09-27,SA,Colombia,CO,Risaralda,6940,Apía,8.18229,5.1749,-75.9712,Landslide,Landslide,medium,Downpour
+2508,2010-09-27,SA,Colombia,CO,Antioquia,1464,Giraldo,2.55282,6.706,-75.9917,Landslide,Landslide,large,Downpour
+2511,2010-09-28,NA,Jamaica,JM,Portland,1119,Moore Town,7.81269,18.0083,-76.4394,Landslide,Landslide,medium,Downpour
+2514,2010-09-28,NA,Mexico,MX,Oaxaca,1813,Santo Domingo Tepuxtepec,15.74984,17.0977,-96.0625,Landslide,Mudslide,medium,Tropical cyclone
+2515,2010-09-28,NA,United States,US,Pennsylvania,3403,Mount Oliver,2.03608,40.4191,-79.9647,Landslide,Complex,small,Downpour
+2516,2010-09-29,NA,Costa Rica,CR,Alajuela,3624,San Rafael,1.47396,10.0757,-84.4793,Landslide,Mudslide,medium,Downpour
+2517,2010-09-29,NA,Jamaica,JM,Saint Mary,2046,Richmond,1.24727,18.2544,-76.8865,Landslide,Landslide,medium,Downpour
+2518,2010-09-29,NA,Jamaica,JM,Saint Andrew,8551,Stony Hill,10.84467,18.1686,-76.8226,Landslide,Landslide,medium,Tropical cyclone
+2519,2010-09-29,NA,Jamaica,JM,Saint Catherine,12873,Bog Walk,5.8653,18.0677,-77.0476,Landslide,Landslide,medium,Tropical cyclone
+2520,2010-09-29,NA,Mexico,MX,Chiapas,3947,Amatán,0.31118,17.3738,-92.8213,Landslide,Mudslide,large,Tropical cyclone
+2521,2010-09-29,NA,Mexico,MX,Chiapas,1088,Chihuahua,8.46579,16.0203,-91.8946,Landslide,Complex,medium,Tropical cyclone
+2522,2010-09-29,NA,United States,US,Pennsylvania,1244,Heidelberg,1.22035,40.3911,-80.0766,Landslide,Complex,small,Rain
+2523,2010-09-30,NA,Jamaica,JM,Saint Andrew,8551,Stony Hill,2.13878,18.0622,-76.7763,Landslide,Mudslide,medium,Tropical cyclone
+2524,2010-09-30,NA,Mexico,MX,Oaxaca,1096,Tanetze de Zaragoza,24.67589,17.1833,-96.1833,Landslide,Mudslide,medium,Tropical cyclone
+2525,2010-09-30,NA,United States,US,New York,1053,McGraw,6.65468,42.5363,-76.0909,Landslide,Mudslide,small,Tropical cyclone
+2598,2010-10-15,NA,Costa Rica,CR,Heredia,1355,Ángeles,14.81614,10.1067,-83.9753,Landslide,Rockfall,medium,Downpour
+2604,2010-10-17,NA,Haiti,HT,Ouest,134190,Léogâne,7.67473,18.4674,-72.5738,Landslide,Complex,medium,Downpour
+2605,2010-10-17,NA,Haiti,HT,Ouest,442156,Carrefour,2.63565,18.5202,-72.4111,Landslide,Mudslide,medium,Downpour
+2611,2010-10-18,NA,Cuba,CU,Provincia de La Habana,132351,Cerro,0.89865,23.1098,-82.3691,Landslide,Complex,medium,Tropical cyclone
+2642,2010-10-19,NA,United States,US,California,7715,Thousand Palms,7.04978,33.8575,-116.4518,Landslide,Mudslide,small,Downpour
+2652,2010-10-25,NA,Honduras,HN,Colón,1441,Cusuna,36.37629,15.5227,-85.265,Landslide,Landslide,medium,Tropical cyclone
+2656,2010-10-30,NA,Jamaica,JM,Saint Mary,2046,Richmond,8.74635,18.2084,-76.8169,Landslide,Landslide,medium,Unknown
+2657,2010-10-30,NA,Saint Vincent and the Grenadines,VC,Charlotte,1680,Georgetown,6.56616,13.2548,-61.1805,Landslide,Landslide,medium,Tropical cyclone
+2658,2010-10-30,NA,Saint Lucia,LC,Laborie,1131,Laborie,2.74715,13.7705,-60.969,Landslide,Landslide,medium,Tropical cyclone
+2659,2010-10-31,NA,Saint Lucia,LC,Soufrière,2918,Soufrière,1.56516,13.8516,-61.0429,Landslide,Landslide,medium,Tropical cyclone
+2660,2010-10-31,NA,Saint Lucia,LC,Soufrière,2918,Soufrière,1.24758,13.8491,-61.0656,Landslide,Landslide,medium,Tropical cyclone
+2661,2010-10-31,NA,Saint Lucia,LC,Dennery,2870,Dennery,6.13309,13.921,-60.9402,Landslide,Landslide,medium,Tropical cyclone
+2662,2010-10-31,NA,Saint Lucia,LC,Soufrière,2918,Soufrière,2.60663,13.8328,-61.0535,Landslide,Landslide,medium,Tropical cyclone
+2663,2010-10-31,NA,Saint Lucia,LC,Soufrière,2918,Soufrière,0.96933,13.8487,-61.0613,Landslide,Landslide,medium,Tropical cyclone
+2664,2010-10-31,NA,Trinidad and Tobago,TT,Sangre Grande,15968,Sangre Grande,33.51924,10.8334,-60.9436,Landslide,Landslide,medium,Tropical cyclone
+2665,2010-10-31,NA,Trinidad and Tobago,TT,Eastern Tobago,0,Roxborough,8.44112,11.3143,-60.5417,Landslide,Landslide,medium,Tropical cyclone
+2666,2010-10-31,NA,Trinidad and Tobago,TT,Eastern Tobago,0,Roxborough,3.3624,11.2288,-60.6054,Landslide,Landslide,medium,Tropical cyclone
+2667,2010-10-31,NA,Trinidad and Tobago,TT,Tunapuna/Piarco,15067,Paradise,2.64003,10.666,-61.3832,Landslide,Landslide,medium,Tropical cyclone
+2668,2010-10-31,NA,Trinidad and Tobago,TT,Eastern Tobago,0,Roxborough,0.91163,11.2505,-60.575,Landslide,Landslide,medium,Tropical cyclone
+2669,2010-10-31,NA,Trinidad and Tobago,TT,Tobago,17000,Scarborough,4.68038,11.2246,-60.7428,Landslide,Landslide,medium,Downpour
+2670,2010-10-31,NA,Trinidad and Tobago,TT,Tobago,17000,Scarborough,6.81393,11.2434,-60.7195,Landslide,Landslide,medium,Downpour
+2720,2010-11-13,SA,Colombia,CO,Risaralda,10895,Quinchía,0.11421,5.3391,-75.7311,Landslide,Mudslide,medium,Downpour
+2721,2010-11-13,SA,Colombia,CO,Antioquia,1999979,Medellín,2.18776,6.2674,-75.5758,Landslide,Mudslide,medium,Downpour
+2722,2010-11-13,SA,Colombia,CO,Sucre,36549,San Marcos,25.51411,8.5612,-74.9185,Landslide,Mudslide,medium,Downpour
+2728,2010-11-16,SA,Colombia,CO,Cundinamarca,10175,La Calera,7.28959,4.7608,-74.0214,Landslide,Landslide,medium,Downpour
+2734,2010-11-17,NA,United States,US,Pennsylvania,2763,Manchester,5.03527,40.0988,-76.7763,Landslide,Landslide,small,Downpour
+2735,2010-11-18,NA,Jamaica,JM,Portland,2321,Manchioneal,0.71773,18.0445,-76.2781,Landslide,Landslide,medium,Downpour
+2736,2010-11-20,SA,Colombia,CO,Caldas,6224,Marquetalia,17.48659,5.45,-75.0167,Landslide,Landslide,medium,Downpour
+2737,2010-11-20,SA,Colombia,CO,Caldas,6224,Marquetalia,3.72195,5.3298,-75.0495,Landslide,Landslide,medium,Downpour
+2738,2010-11-20,SA,Colombia,CO,Caldas,1256,Marulanda,0.7283,5.2833,-75.2667,Landslide,Landslide,medium,Downpour
+2739,2010-11-20,SA,Colombia,CO,Norte de Santander,2702,Arboledas,14.62503,7.6213,-72.9303,Landslide,Landslide,medium,Downpour
+2740,2010-11-20,SA,Colombia,CO,Santander,3032,San Andrés,3.06383,6.8202,-72.8756,Landslide,Landslide,medium,Downpour
+2741,2010-11-20,SA,Colombia,CO,Antioquia,4987,Cáceres,4.29197,7.6167,-75.3337,Landslide,Landslide,medium,Downpour
+2742,2010-11-21,NA,Costa Rica,CR,Heredia,1355,Ángeles,19.54581,10.1433,-83.9529,Landslide,Landslide,medium,Downpour
+2749,2010-11-25,SA,Venezuela,VE,Miranda,278890,Santa Teresa,8.45736,10.2452,-66.5867,Landslide,Mudslide,medium,Downpour
+2753,2010-11-26,SA,Venezuela,VE,Distrito Federal,3000000,Caracas,2.95706,10.4913,-66.906,Landslide,Mudslide,medium,Downpour
+2755,2010-11-27,NA,Trinidad and Tobago,TT,Diego Martin,8140,Petit Valley,3.33629,10.6963,-61.5636,Landslide,Landslide,medium,Downpour
+2756,2010-11-27,NA,Trinidad and Tobago,TT,Diego Martin,8140,Petit Valley,3.08955,10.6949,-61.5611,Landslide,Landslide,medium,Downpour
+2757,2010-11-27,NA,Trinidad and Tobago,TT,Diego Martin,8140,Petit Valley,4.66234,10.7335,-61.5592,Landslide,Landslide,medium,Downpour
+2758,2010-11-27,NA,Trinidad and Tobago,TT,Diego Martin,8140,Petit Valley,4.50278,10.6895,-61.5731,Landslide,Landslide,medium,Downpour
+2759,2010-11-27,NA,Trinidad and Tobago,TT,Diego Martin,8140,Petit Valley,6.58396,10.6915,-61.5929,Landslide,Landslide,medium,Downpour
+2760,2010-11-27,NA,Trinidad and Tobago,TT,Diego Martin,8140,Petit Valley,1.83626,10.6834,-61.5335,Landslide,Landslide,medium,Downpour
+2761,2010-11-27,SA,Venezuela,VE,Distrito Federal,0,Caricuao,7.90754,10.503,-66.9995,Landslide,Mudslide,medium,Downpour
+2762,2010-11-27,SA,Venezuela,VE,Distrito Federal,0,Caricuao,5.6405,10.4267,-67.0342,Landslide,Landslide,medium,Downpour
+2763,2010-11-27,SA,Venezuela,VE,Distrito Federal,0,Caricuao,5.74106,10.4669,-66.9431,Landslide,Landslide,medium,Downpour
+2764,2010-11-27,SA,Venezuela,VE,Distrito Federal,3000000,Caracas,4.58994,10.4867,-66.9211,Landslide,Landslide,medium,Downpour
+2765,2010-11-27,SA,Venezuela,VE,Miranda,244216,Baruta,2.69644,10.4447,-66.8545,Landslide,Landslide,medium,Downpour
+2766,2010-11-27,SA,Venezuela,VE,Miranda,57591,El Hatillo,1.04263,10.4393,-66.815,Landslide,Landslide,medium,Downpour
+2769,2010-11-29,SA,Venezuela,VE,Distrito Federal,3000000,Caracas,3.1406,10.5129,-66.893,Landslide,Landslide,medium,Downpour
+2770,2010-11-29,SA,Venezuela,VE,Distrito Federal,3000000,Caracas,6.04235,10.5029,-66.9323,Landslide,Landslide,medium,Downpour
+2771,2010-11-29,SA,Venezuela,VE,Miranda,191903,Guatire,15.84114,10.6144,-66.5806,Landslide,Mudslide,medium,Downpour
+2772,2010-11-29,SA,Venezuela,VE,Distrito Federal,3000000,Caracas,3.87793,10.4891,-66.9146,Landslide,Landslide,medium,Downpour
+2773,2010-11-29,SA,Venezuela,VE,Distrito Federal,3000000,Caracas,3.65044,10.4701,-66.9072,Landslide,Landslide,medium,Downpour
+2774,2010-11-30,SA,Venezuela,VE,Distrito Federal,3000000,Caracas,8.11953,10.5139,-66.9486,Landslide,Landslide,medium,Downpour
+2775,2010-11-30,NA,United States,US,New York,4946,Little Falls,2.73513,43.0274,-74.8851,Landslide,Mudslide,medium,Downpour
+2868,2010-12-19,NA,United States,US,California,4862,Running Springs,7.63522,34.231,-117.0312,Landslide,Mudslide,medium,Downpour
+2873,2010-12-20,NA,United States,US,Nevada,24085,Summerlin South,19.35795,36.0185,-115.5073,Landslide,Mudslide,small,Downpour
+2874,2010-12-21,NA,United States,US,California,59518,Encinitas,4.45005,33.0744,-117.3092,Landslide,Rockfall,small,Downpour
+2876,2010-12-21,NA,United States,US,California,10644,Muscoy,4.5152,34.1608,-117.2959,Landslide,Mudslide,small,Downpour
+2880,2010-12-22,NA,United States,US,California,59518,Encinitas,3.31222,33.0648,-117.3049,Landslide,Landslide,small,Downpour
+2881,2010-12-22,NA,United States,US,California,53104,Highland,1.85916,34.1358,-117.1906,Landslide,Complex,small,Downpour
+2884,2010-12-22,NA,United States,US,California,44199,San Jacinto,2.92944,33.8071,-116.9435,Landslide,Landslide,small,Downpour
+2885,2010-12-22,NA,United States,US,California,4862,Running Springs,6.40077,34.1813,-117.1709,Landslide,Landslide,small,Downpour
+2887,2010-12-22,NA,United States,US,California,53104,Highland,1.95744,34.1407,-117.1935,Landslide,Mudslide,medium,Downpour
+2890,2010-12-22,NA,United States,US,California,4862,Running Springs,3.35384,34.2174,-117.0747,Landslide,Rockfall,small,Downpour
+2893,2010-12-22,NA,United States,US,California,105328,Carlsbad,5.86771,33.1466,-117.2892,Landslide,Mudslide,small,Downpour
+2895,2010-12-22,NA,United States,US,California,23261,Loma Linda,3.23578,34.0775,-117.2599,Landslide,Mudslide,small,Downpour
+2896,2010-12-22,NA,United States,US,California,42808,La Jolla,2.01316,32.8471,-117.2527,Landslide,Mudslide,small,Downpour
+2897,2010-12-22,NA,United States,US,California,42808,La Jolla,2.24058,32.8296,-117.2626,Landslide,Mudslide,small,Downpour
+2898,2010-12-22,NA,United States,US,California,23261,Loma Linda,0.87634,34.0424,-117.2674,Landslide,Mudslide,medium,Downpour
+2899,2010-12-23,SA,Colombia,CO,Nariño,6522,San Pablo,4.95353,1.68,-76.97,Landslide,Landslide,large,Downpour
+2907,2010-12-28,NA,United States,US,California,57065,La Mesa,6.02579,32.7708,-117.0873,Landslide,Mudslide,small,Downpour
+2910,2010-12-28,NA,United States,US,California,193365,Moreno Valley,9.07891,33.9385,-117.1324,Landslide,Landslide,small,Downpour
+3015,2011-01-16,NA,United States,US,Idaho,485,Idaho City,34.46887,44.0967,-116.0504,Landslide,Mudslide,medium,Downpour
+3018,2011-01-16,NA,United States,US,Idaho,145987,Boise,14.32586,43.6361,-116.0287,Landslide,Mudslide,medium,Downpour
+3021,2011-01-16,NA,United States,US,Idaho,145987,Boise,14.99911,43.6626,-116.0303,Landslide,Mudslide,medium,Downpour
+3043,2011-01-18,NA,United States,US,Idaho,485,Idaho City,38.27504,44.1126,-116.1043,Landslide,Complex,medium,Freeze thaw
+3076,2011-01-30,NA,United States,US,West Virginia,1554,Chesapeake,6.15192,38.1721,-81.5627,Landslide,Mudslide,medium,Downpour
+3119,2011-02-14,SA,Ecuador,EC,Pichincha,25742,Machachi,25.82923,-0.6273,-78.3664,Landslide,Mudslide,medium,Downpour
+3120,2011-02-14,SA,Ecuador,EC,Cotopaxi,3778,Saquisilí,30.81169,-0.6549,-78.874,Landslide,Mudslide,medium,Downpour
+3130,2011-02-16,NA,Jamaica,JM,Saint Mary,2046,Richmond,3.7758,18.2724,-76.9104,Landslide,Landslide,medium,Downpour
+3131,2011-02-16,NA,Jamaica,JM,Portland,2757,Buff Bay,7.52317,18.1689,-76.6852,Landslide,Landslide,medium,Downpour
+3135,2011-02-18,NA,United States,US,California,1423,Descanso,9.82301,32.9112,-116.5369,Landslide,Complex,medium,Downpour
+3210,2011-03-13,NA,United States,US,Ohio,1482,Brilliant,4.85999,40.2324,-80.6646,Landslide,Landslide,medium,Downpour
+3227,2011-03-15,NA,United States,US,Alabama,12548,Jacksonville,1.79927,33.7975,-85.762,Landslide,Landslide,small,Downpour
+3231,2011-03-15,NA,United States,US,Pennsylvania,1171,Bradford Woods,4.62567,40.6357,-80.0271,Landslide,Landslide,medium,Downpour
+3243,2011-03-16,NA,United States,US,Ohio,1592,Powhatan Point,1.01208,39.8541,-80.8243,Landslide,Landslide,medium,Downpour
+3244,2011-03-16,NA,United States,US,Ohio,3541,Wellsville,3.09494,40.5812,-80.672,Landslide,Mudslide,medium,Downpour
+3248,2011-03-18,NA,United States,US,New York,1009,Hadley,6.60211,43.3197,-73.9295,Landslide,Mudslide,medium,Rain
+3255,2011-03-20,SA,Colombia,CO,Caldas,35302,Villamaría,2.36822,5.0255,-75.5236,Landslide,Landslide,medium,Downpour
+3262,2011-03-21,NA,United States,US,Utah,7775,Summit Park,5.09388,40.7388,-111.6712,Landslide,Mudslide,small,Downpour
+3300,2011-03-26,SA,Colombia,CO,Norte de Santander,721398,Cúcuta,3.6052,7.9467,-72.4908,Landslide,Mudslide,medium,Downpour
+3303,2011-03-26,NA,United States,US,California,9277,Valley Center,5.13929,33.1817,-117.0005,Landslide,Landslide,medium,Downpour
+3311,2011-03-28,SA,Colombia,CO,Caldas,357814,Manizales,1.7085,5.0569,-75.5271,Landslide,Landslide,medium,Rain
+3359,2011-04-13,SA,Colombia,CO,Caldas,357814,Manizales,1.07765,5.0657,-75.5082,Landslide,Landslide,small,Downpour
+3360,2011-04-13,SA,Colombia,CO,Caldas,35302,Villamaría,15.82404,5.0343,-75.3723,Landslide,Landslide,large,Downpour
+3361,2011-04-13,NA,United States,US,Pennsylvania,305704,Pittsburgh,1.29731,40.432,-80.0062,Landslide,Complex,small,Continuous rain
+3362,2011-04-13,SA,Colombia,CO,Antioquia,10191,Santa Rosa de Osos,18.91189,6.468,-74.9411,Landslide,Landslide,medium,Downpour
+3363,2011-04-14,NA,United States,US,Pennsylvania,1929,West Homestead,1.91993,40.3782,-79.9213,Landslide,Mudslide,medium,Downpour
+3364,2011-04-14,NA,United States,US,Pennsylvania,1171,Bradford Woods,2.06885,40.6525,-80.0671,Landslide,Landslide,medium,Downpour
+3365,2011-04-15,SA,Colombia,CO,Santander,1227,Florián,0.44753,5.8044,-73.9743,Landslide,Mudslide,large,Downpour
+3367,2011-04-16,SA,Colombia,CO,Cundinamarca,1577,San Antonio del Tequendama,6.08628,4.6502,-74.399,Landslide,Landslide,medium,Downpour
+3368,2011-04-16,NA,United States,US,New Jersey,50005,Hoboken,0.84845,40.7443,-74.0424,Landslide,Mudslide,small,Downpour
+3369,2011-04-16,NA,United States,US,Ohio,1372,Tiltonsville,3.77028,40.1909,-80.6687,Landslide,Mudslide,small,Downpour
+3370,2011-04-16,NA,United States,US,West Virginia,823,Elizabeth,15.03444,39.0315,-81.5639,Landslide,Mudslide,small,Downpour
+3371,2011-04-16,NA,United States,US,Ohio,1482,Brilliant,1.76001,40.2498,-80.6329,Landslide,Mudslide,medium,Downpour
+3372,2011-04-16,NA,United States,US,Pennsylvania,9299,Bala Cynwyd,3.74706,39.982,-75.2055,Landslide,Mudslide,medium,Downpour
+3379,2011-04-17,NA,United States,US,Maryland,6170,Thurmont,3.50924,39.6526,-77.4274,Landslide,Mudslide,medium,Downpour
+3386,2011-04-21,NA,United States,US,Kentucky,24757,Independence,2.19418,38.9566,-84.5256,Landslide,Landslide,small,Downpour
+3387,2011-04-21,NA,United States,US,Kentucky,5912,Cold Spring,1.22389,39.0189,-84.4536,Landslide,Landslide,small,Downpour
+3388,2011-04-21,NA,United States,US,Kentucky,3925,Williamstown,12.53751,38.5293,-84.599,Landslide,Landslide,small,Downpour
+3389,2011-04-21,NA,United States,US,Kentucky,7489,Villa Hills,2.03469,39.0639,-84.6165,Landslide,Mudslide,medium,Downpour
+3390,2011-04-21,NA,United States,US,Ohio,5259,Delhi Hills,3.45556,39.0744,-84.6449,Landslide,Landslide,medium,Downpour
+3391,2011-04-21,NA,United States,US,Kentucky,3035,Wilder,1.24385,39.0456,-84.4833,Landslide,Landslide,medium,Downpour
+3392,2011-04-21,NA,United States,US,Kentucky,8477,Alexandria,4.61879,38.9939,-84.358,Landslide,Landslide,medium,Downpour
+3393,2011-04-22,SA,Colombia,CO,Antioquia,49169,Municipio de Copacabana,7.98838,6.3704,-75.4408,Landslide,Landslide,medium,Downpour
+3398,2011-04-23,SA,Colombia,CO,Antioquia,8603,Frontino,5.0696,6.7425,-76.1551,Landslide,Landslide,medium,Rain
+3403,2011-04-24,SA,Ecuador,EC,Morona-Santiago,23687,Macas,46.77007,-2.0398,-78.4359,Landslide,Landslide,medium,Downpour
+3404,2011-04-24,NA,United States,US,West Virginia,4028,Sissonville,3.90856,38.5212,-81.6749,Landslide,Mudslide,small,Downpour
+3405,2011-04-24,NA,United States,US,Ohio,3149,West Portsmouth,6.43139,38.71,-83.0697,Landslide,Mudslide,medium,Downpour
+3406,2011-04-24,NA,United States,US,Ohio,4582,Waverly,12.99718,39.1653,-82.8435,Landslide,Mudslide,medium,Downpour
+3408,2011-04-25,NA,United States,US,Missouri,4426,Hollister,8.78605,36.5989,-93.3097,Landslide,Mudslide,small,Downpour
+3409,2011-04-25,NA,United States,US,Ohio,3234,Cleves,4.50908,39.1369,-84.7904,Landslide,Landslide,small,Downpour
+3410,2011-04-25,NA,United States,US,Kentucky,4407,Ludlow,1.26285,39.0978,-84.5604,Landslide,Landslide,small,Downpour
+3411,2011-04-25,NA,United States,US,Kentucky,5955,Bellevue,1.42927,39.1075,-84.4953,Landslide,Landslide,small,Downpour
+3412,2011-04-25,NA,United States,US,Kentucky,2554,Eddyville,7.88518,37.0379,-88.0267,Landslide,Landslide,small,Downpour
+3413,2011-04-25,NA,United States,US,Ohio,296943,Cincinnati,2.59168,39.1647,-84.4271,Landslide,Landslide,small,Downpour
+3414,2011-04-25,NA,United States,US,Kentucky,15273,Newport,1.73096,39.1065,-84.501,Landslide,Landslide,small,Downpour
+3415,2011-04-25,NA,United States,US,Ohio,296943,Cincinnati,2.68376,39.1645,-84.426,Landslide,Mudslide,small,Downpour
+3416,2011-04-25,NA,United States,US,Ohio,1239,Wolfhurst,7.12905,40.127,-80.8202,Landslide,Landslide,small,Downpour
+3417,2011-04-25,NA,United States,US,Arkansas,1084,Midway,6.74198,36.4461,-92.4623,Landslide,Landslide,small,Downpour
+3418,2011-04-25,NA,United States,US,Ohio,2782,Dry Ridge,2.924,39.2515,-84.6515,Landslide,Landslide,medium,Downpour
+3419,2011-04-25,NA,United States,US,West Virginia,1302,Barrackville,1.6033,39.4896,-80.1708,Landslide,Mudslide,medium,Downpour
+3427,2011-04-26,NA,United States,US,Ohio,4801,Amelia,4.45788,39.0188,-84.2677,Landslide,Landslide,small,Downpour
+3428,2011-04-26,NA,United States,US,Tennessee,5417,Bolivar,9.34376,35.1802,-88.9436,Landslide,Landslide,small,Downpour
+3434,2011-04-27,NA,United States,US,Tennessee,14538,Dickson,8.14549,36.0562,-87.4745,Landslide,Landslide,small,Downpour
+3435,2011-04-27,NA,United States,US,Kentucky,4407,Ludlow,2.0883,39.1098,-84.5571,Landslide,Mudslide,small,Downpour
+3436,2011-04-27,NA,United States,US,Tennessee,1750,McEwen,12.81745,36.1638,-87.5085,Landslide,Landslide,small,Downpour
+3438,2011-04-28,NA,United States,US,Kentucky,2764,Dawson Springs,8.74503,37.1552,-87.7898,Landslide,Landslide,medium,Downpour
+3440,2011-04-29,NA,United States,US,Kentucky,1745,Harlan,15.7657,36.8755,-83.1497,Landslide,Mudslide,medium,Continuous rain
+3441,2011-04-30,NA,United States,US,Missouri,2184,Willow Springs,13.48426,36.9118,-92.0833,Landslide,Landslide,medium,Downpour
+3493,2011-05-13,NA,United States,US,Pennsylvania,3450,Masontown,5.82547,39.8842,-79.8521,Landslide,Mudslide,small,Downpour
+3494,2011-05-13,NA,United States,US,Pennsylvania,13663,Washington,18.14779,40.0205,-80.3194,Landslide,Mudslide,small,Downpour
+3495,2011-05-13,NA,United States,US,Pennsylvania,7635,Maple Glen,1.49457,40.0118,-79.9935,Landslide,Landslide,medium,Continuous rain
+3498,2011-05-15,NA,United States,US,New York,2614,Whitehall,16.90533,43.6128,-73.5977,Landslide,Mudslide,small,Downpour
+3499,2011-05-16,SA,Colombia,CO,Valle del Cauca,2392877,Cali,8.30406,3.4677,-76.5908,Landslide,Landslide,medium,Downpour
+3500,2011-05-16,SA,Colombia,CO,Santander,8949,Lebrija,9.21217,7.096,-73.2994,Landslide,Landslide,medium,Downpour
+3501,2011-05-17,SA,Colombia,CO,Santander,86387,Piedecuesta,10.55986,6.905,-73.0021,Landslide,Landslide,medium,Downpour
+3502,2011-05-17,NA,United States,US,Pennsylvania,1064,Curtisville,2.01507,40.6573,-79.8375,Landslide,Landslide,small,Downpour
+3503,2011-05-18,SA,Colombia,CO,Santander,11265,San Vicente de Chucurí,0.80432,6.8835,-73.4166,Landslide,Complex,medium,Downpour
+3504,2011-05-18,NA,United States,US,West Virginia,49138,Huntington,1.71788,38.4069,-82.4333,Landslide,Landslide,small,Downpour
+3505,2011-05-18,NA,United States,US,West Virginia,49138,Huntington,2.13503,38.4072,-82.4261,Landslide,Landslide,small,Downpour
+3506,2011-05-18,NA,United States,US,West Virginia,49138,Huntington,2.94557,38.4001,-82.4685,Landslide,Landslide,small,Downpour
+3507,2011-05-18,NA,United States,US,West Virginia,49138,Huntington,2.76021,38.4007,-82.4662,Landslide,Landslide,small,Downpour
+3508,2011-05-18,NA,United States,US,West Virginia,49138,Huntington,0.01392,38.4193,-82.4453,Landslide,Landslide,small,Downpour
+3509,2011-05-18,NA,United States,US,West Virginia,1542,West Liberty,11.0113,40.1095,-80.4911,Landslide,Mudslide,small,Downpour
+3510,2011-05-18,NA,United States,US,Pennsylvania,5677,Coraopolis,2.45126,40.521,-80.138,Landslide,Landslide,small,Downpour
+3511,2011-05-18,NA,United States,US,Pennsylvania,1440,Russellton,4.06157,40.5755,-79.8282,Landslide,Landslide,medium,Downpour
+3514,2011-05-19,NA,United States,US,Pennsylvania,27126,Plum,1.0937,40.5071,-79.7401,Landslide,Landslide,small,Downpour
+3515,2011-05-19,NA,United States,US,Pennsylvania,3050,Youngwood,3.51907,40.2357,-79.5358,Landslide,Landslide,small,Downpour
+3516,2011-05-19,NA,United States,US,Utah,1336,Wolf Creek,8.65312,41.2554,-111.8305,Landslide,Landslide,medium,Downpour
+3517,2011-05-19,NA,United States,US,Pennsylvania,3330,Ingram,0.7126,40.448,-80.0595,Landslide,Landslide,medium,Downpour
+3518,2011-05-20,NA,United States,US,Pennsylvania,305704,Pittsburgh,0.26199,40.4407,-79.9928,Landslide,Landslide,small,Downpour
+3522,2011-05-21,NA,United States,US,Utah,9128,Santaquin,7.91495,39.9121,-111.7429,Landslide,Mudslide,small,Downpour
+3523,2011-05-21,NA,United States,US,Pennsylvania,1218,Leetsdale,1.11499,40.5558,-80.2174,Landslide,Creep,medium,Downpour
+3524,2011-05-21,NA,United States,US,Pennsylvania,1218,Leetsdale,1.11499,40.5558,-80.2174,Landslide,Creep,medium,Downpour
+3526,2011-05-22,NA,United States,US,Utah,18275,Farmington,3.12368,41.0033,-111.8657,Landslide,Mudslide,small,Downpour
+3527,2011-05-22,NA,United States,US,Utah,3112,Beaver,14.71664,38.2717,-112.473,Landslide,Complex,small,Downpour
+3528,2011-05-22,NA,United States,US,Utah,8893,Grantsville,30.28399,40.3398,-112.5716,Landslide,Mudslide,small,Downpour
+3529,2011-05-22,NA,United States,US,Utah,15335,Centerville,4.54095,40.9108,-111.8191,Landslide,Landslide,small,Downpour
+3531,2011-05-23,NA,United States,US,Pennsylvania,5157,Arnold,3.0244,40.5813,-79.8024,Landslide,Landslide,small,Downpour
+3537,2011-05-25,NA,United States,US,Iowa,82684,Sioux City,4.3821,42.5337,-96.3726,Landslide,Mudslide,small,Downpour
+3538,2011-05-25,NA,United States,US,Michigan,113934,Ann Arbor,1.89658,42.2939,-83.7342,Landslide,Mudslide,small,Downpour
+3548,2011-05-27,NA,United States,US,New York,2521,Lake Placid,11.70793,44.3666,-73.8973,Landslide,Landslide,small,Downpour
+3550,2011-05-28,NA,United States,US,Illinois,27865,Alton,1.71596,38.8994,-90.2006,Landslide,Mudslide,medium,Downpour
+3551,2011-05-29,NA,United States,US,Vermont,9052,Barre,0.65528,44.1921,-72.4975,Landslide,Landslide,small,Downpour
+3553,2011-05-30,NA,United States,US,Utah,1336,Wolf Creek,8.65312,41.2554,-111.8305,Landslide,Landslide,small,Rain
+3554,2011-05-30,NA,United States,US,Wyoming,1182,Sundance,7.07507,44.4648,-104.4111,Landslide,Mudslide,small,Unknown
+3555,2011-05-30,NA,United States,US,Vermont,9052,Barre,1.15359,44.19,-72.4914,Landslide,Mudslide,small,Downpour
+3625,2011-06-18,NA,United States,US,Wisconsin,65883,Eau Claire,4.98787,44.7665,-91.496,Landslide,Mudslide,small,Downpour
+3635,2011-06-20,NA,United States,US,Indiana,1712,Southport,2.61312,39.6416,-86.1251,Landslide,Mudslide,small,Downpour
+3636,2011-06-20,NA,United States,US,Tennessee,4389,Harrogate,3.07236,36.6015,-83.6816,Landslide,Mudslide,medium,Downpour
+3639,2011-06-22,NA,Mexico,MX,Nayarit,4463,La Jarretadera,21.8006,21.9814,-104.8381,Landslide,Landslide,medium,Tropical cyclone
+3640,2011-06-22,NA,United States,US,Kentucky,2733,Stanton,5.95618,37.8107,-83.8069,Landslide,Mudslide,medium,Rain
+3661,2011-06-27,NA,United States,US,Colorado,1034,Georgetown,11.46832,39.7956,-105.7643,Landslide,Landslide,medium,Rain
+3771,2011-07-13,NA,United States,US,Colorado,97385,Boulder,9.47622,40.0505,-105.3715,Landslide,Debris flow,medium,Downpour
+3774,2011-07-14,NA,United States,US,Colorado,97385,Boulder,10.4223,40.0018,-105.3914,Landslide,Rockfall,medium,Downpour
+3784,2011-07-15,NA,United States,US,Arizona,14797,Sierra Vista Southeast,12.52763,31.3456,-110.2541,Landslide,Debris flow,medium,Rain
+3795,2011-07-17,NA,Mexico,MX,Oaxaca,73648,Salina Cruz,0.7834,16.1863,-95.1924,Landslide,Mudslide,medium,Downpour
+3796,2011-07-17,NA,Mexico,MX,Oaxaca,3294,San José Chiltepec,0.28905,17.9484,-96.1674,Landslide,Mudslide,medium,Downpour
+3797,2011-07-17,NA,Mexico,MX,Oaxaca,1019,Paso Real de Sarabia,9.56829,17,-95,Landslide,Mudslide,medium,Downpour
+3799,2011-07-18,NA,United States,US,Colorado,1320,Mountain Village,1.82803,37.9478,-107.8548,Landslide,Landslide,small,Rain
+3800,2011-07-18,NA,United States,US,Colorado,9614,Glenwood Springs,5.78301,39.5015,-107.3021,Landslide,Mudslide,small,Rain
+3801,2011-07-18,NA,United States,US,Pennsylvania,3165,Homestead,2.96418,40.4243,-79.9373,Landslide,Mudslide,medium,Downpour
+3802,2011-07-18,NA,United States,US,Ohio,1411,New California,5.63505,40.1793,-83.1777,Landslide,Mudslide,medium,Rain
+3811,2011-07-19,NA,United States,US,Kentucky,441,Campton,12.29943,37.775,-83.6772,Landslide,Landslide,small,Downpour
+3812,2011-07-19,NA,United States,US,Colorado,6447,Avon,2.35855,39.6492,-106.5372,Landslide,Landslide,small,Rain
+3825,2011-07-21,NA,United States,US,Florida,2768,Williston,3.75018,29.3879,-82.4854,Landslide,Landslide,medium,Rain
+3826,2011-07-21,NA,United States,US,Kentucky,4456,Hazard,8.30475,37.2101,-83.1137,Landslide,Landslide,medium,Downpour
+3832,2011-07-22,NA,Mexico,MX,Chiapas,1005,Nueva Libertad,7.93996,16.1514,-92.7704,Landslide,Landslide,medium,Tropical cyclone
+3833,2011-07-22,NA,Mexico,MX,Colima,127235,Colima,0.36051,19.2444,-103.7244,Landslide,Landslide,medium,Tropical cyclone
+3834,2011-07-22,NA,Mexico,MX,Guerrero,165250,Chilpancingo de los Bravos,6.8095,17.4974,-99.538,Landslide,Landslide,medium,Tropical cyclone
+3835,2011-07-22,NA,Mexico,MX,Michoacán,2817,Jarácuaro,3.36905,19.5805,-101.7023,Landslide,Landslide,medium,Tropical cyclone
+3836,2011-07-22,NA,Mexico,MX,Nayarit,6361,Puga,19.41353,21.7595,-104.8334,Landslide,Landslide,medium,Tropical cyclone
+3842,2011-07-25,NA,United States,US,Colorado,629,San Luis,25.38161,37.4288,-105.447,Landslide,Landslide,small,Rain
+3852,2011-07-27,NA,United States,US,New Mexico,1297,Hurley,17.95414,32.6209,-107.9645,Landslide,Debris flow,small,Downpour
+3865,2011-07-30,NA,United States,US,Colorado,3801,El Jebel,4.90954,39.4274,-107.1291,Landslide,Mudslide,small,Rain
+3866,2011-07-30,NA,United States,US,Colorado,9614,Glenwood Springs,10.57117,39.4977,-107.2225,Landslide,Mudslide,small,Rain
+3867,2011-07-30,NA,United States,US,Colorado,9172,Rifle,1.11647,39.5256,-107.7776,Landslide,Mudslide,small,Rain
+3926,2011-08-15,NA,United States,US,New Jersey,4933,Highland Lake,5.27337,41.1838,-74.5187,Landslide,Landslide,small,Downpour
+3981,2011-09-20,NA,Guatemala,GT,Huehuetenango,14100,Barillas,0.45507,15.8076,-91.3148,Landslide,Landslide,large,Rain
+3985,2011-09-25,NA,Costa Rica,CR,San José,34877,San Isidro,21.67452,9.251,-83.8591,Landslide,Landslide,medium,Downpour
+3988,2011-09-26,NA,Honduras,HN,Francisco Morazán ,850848,Tegucigalpa,1.23639,14.0865,-87.2172,Landslide,Landslide,medium,Downpour
+3993,2011-09-27,SA,Colombia,CO,Antioquia,1999979,Medellín,1.73101,6.2433,-75.5767,Landslide,Landslide,medium,Downpour
+4014,2011-10-15,SA,Colombia,CO,Antioquia,16225,Ciudad Bolívar,24.48479,5.92,-76.2363,Landslide,Landslide,medium,Downpour
+4029,2011-10-25,NA,Trinidad and Tobago,TT,San Juan/Laventille,157258,Laventille,0.38521,10.6487,-61.4954,Landslide,Landslide,medium,Downpour
+4031,2011-10-31,NA,Costa Rica,CR,Cartago,6784,Cot,9.63616,9.9792,-83.8525,Landslide,Landslide,medium,Downpour
+4032,2011-10-31,NA,Trinidad and Tobago,TT,Diego Martin,8140,Petit Valley,11.75674,10.7539,-61.4407,Landslide,Landslide,medium,Downpour
+4049,2011-11-17,SA,Colombia,CO,Tolima,9309,Cajamarca,8.56086,4.4183,-75.5003,Landslide,Mudslide,medium,Downpour
+4051,2011-11-18,NA,Dominican Republic,DO,La Vega,29481,Constanza,0.52969,18.9045,-70.744,Landslide,Mudslide,medium,Downpour
+4057,2011-11-22,NA,United States,US,Pennsylvania,5012,Kutztown,0.74333,40.5238,-75.7796,Landslide,Landslide,medium,Rain
+4064,2011-11-24,SA,Colombia,CO,Tolima,9309,Cajamarca,7.87303,4.4376,-75.4976,Landslide,Landslide,medium,Downpour
+4071,2011-11-29,SA,Colombia,CO,Cundinamarca,54421,Funza,9.23778,4.678,-74.138,Landslide,Landslide,medium,Downpour
+4072,2011-11-30,NA,United States,US,Alabama,14770,Scottsboro,0.64281,34.6781,-86.0343,Landslide,Landslide,medium,Downpour
+4091,2011-12-13,SA,Colombia,CO,Cauca,8751,La Cruz,0.64469,1.6056,-76.9742,Landslide,Landslide,medium,Downpour
+4094,2011-12-15,SA,Colombia,CO,Caldas,5976,Norcasia,16.94642,5.4958,-75.0144,Landslide,Landslide,large,Downpour
+4095,2011-12-15,SA,Colombia,CO,Nariño,2394,San Lorenzo,0.37809,1.507,-77.2223,Landslide,Landslide,large,Downpour
+4096,2011-12-16,SA,Colombia,CO,Magdalena,431781,Santa Marta,0.79694,11.2475,-74.2017,Landslide,Landslide,large,Downpour
+4097,2011-12-16,SA,Colombia,CO,Caldas,9327,Aranzazu,2.53047,5.2505,-75.5001,Landslide,Landslide,large,Downpour
+4104,2011-12-23,SA,Colombia,CO,Risaralda,179583,Dos Quebradas,0.74201,4.8349,-75.6621,Landslide,Landslide,medium,Downpour
+4105,2011-12-23,NA,United States,US,Pennsylvania,2449,Emsworth,0.79265,40.5172,-80.0941,Landslide,Landslide,small,Downpour
+4106,2011-12-23,NA,United States,US,Kentucky,5338,Dayton,1.43697,39.1251,-84.4674,Landslide,Landslide,small,Downpour
+4108,2011-12-25,NA,Trinidad and Tobago,TT,Tunapuna/Piarco,15067,Paradise,16.73194,10.7901,-61.2984,Landslide,Landslide,large,Downpour
+4121,2011-12-30,SA,Colombia,CO,Antioquia,163007,Envigado,2.07081,5.5139,-75.0138,Landslide,Landslide,medium,Downpour
+4174,2012-01-27,NA,United States,US,Kentucky,4407,Ludlow,1.31411,39.0979,-84.561,Landslide,Mudslide,small,Rain
+4175,2012-01-27,NA,United States,US,Pennsylvania,3165,Homestead,2.19916,40.4257,-79.9113,Landslide,Mudslide,small,Rain
+4200,2012-02-15,SA,Peru,PE,Ancash,0,Tauca,6.77672,-8.5348,-78.0834,Landslide,Mudslide,medium,Downpour
+4256,2012-03-13,SA,Ecuador,EC,Manabi ,44751,Chone,19.85816,-0.7416,-79.9205,Landslide,Landslide,large,Downpour
+4263,2012-03-15,NA,United States,US,Ohio,8375,Cheviot,4.2179,39.1581,-84.5645,Landslide,Mudslide,small,Rain
+4266,2012-03-15,NA,United States,US,Kentucky,1461,Loyall,10.22349,36.8871,-83.4601,Landslide,Landslide,small,Downpour
+4282,2012-03-22,NA,United States,US,Kansas,6731,Roeland Park,2.32126,39.0545,-94.6478,Landslide,Mudslide,small,Downpour
+4283,2012-03-24,SA,Ecuador,EC,Manabi ,14680,Tosagua,7.67919,-0.7668,-80.3008,Landslide,Mudslide,medium,Downpour
+4289,2012-03-30,NA,Haiti,HT,Ouest,283052,Pétionville,1.33931,18.5044,-72.2947,Landslide,Landslide,medium,Downpour
+4296,2012-03-30,NA,United States,US,New York,2072,Boonville,9.9518,43.3982,-75.3733,Landslide,Landslide,medium,Downpour
+4327,2012-04-18,NA,Trinidad and Tobago,TT,Eastern Tobago,0,Roxborough,5.62092,11.2181,-60.6234,Landslide,Landslide,medium,Downpour
+4328,2012-04-18,NA,Trinidad and Tobago,TT,Tobago,17000,Scarborough,3.48176,11.1807,-60.7651,Landslide,Landslide,medium,Downpour
+4332,2012-04-22,SA,Colombia,CO,Caquetá,130337,Florencia,15.42607,1.7519,-75.5829,Landslide,Landslide,medium,Downpour
+4358,2012-05-13,NA,Costa Rica,CR,Heredia,5745,Santo Domingo,21.9547,10.1981,-84.0074,Landslide,Landslide,medium,Downpour
+4361,2012-05-15,NA,Guatemala,GT,Quiché,11657,Chajul,7.39906,15.5238,-90.9778,Landslide,Landslide,medium,Downpour
+4364,2012-05-24,NA,United States,US,Minnesota,9552,Arden Hills,0.13052,45.0514,-93.1569,Landslide,Mudslide,medium,Downpour
+4374,2012-05-30,NA,Trinidad and Tobago,TT,Tunapuna/Piarco,15067,Paradise,13.759,10.7692,-61.4078,Landslide,Landslide,large,Downpour
+4375,2012-05-31,NA,Costa Rica,CR,Guanacaste,7301,Tilarán,12.33807,10.5562,-84.8952,Landslide,Landslide,large,Downpour
+4410,2012-06-14,NA,Costa Rica,CR,Limón,18231,Siquirres,5.365,10.1014,-83.4578,Landslide,Landslide,medium,Downpour
+4412,2012-06-15,NA,Mexico,MX,Oaxaca,262566,Oaxaca,3.64682,17.0854,-96.75,Landslide,Mudslide,medium,Downpour
+4474,2012-08-14,NA,United States,US,Arkansas,466,Jasper,5.06464,35.9631,-93.1774,Landslide,Landslide,medium,Downpour
+4491,2012-08-17,NA,United States,US,California,51367,Yucaipa,12.93443,34.0884,-116.9194,Landslide,Mudslide,medium,Downpour
+4510,2012-08-23,NA,Trinidad and Tobago,TT,Diego Martin,8140,Petit Valley,6.39375,10.6906,-61.591,Landslide,Landslide,medium,Tropical cyclone
+4511,2012-08-23,NA,Trinidad and Tobago,TT,Diego Martin,8140,Petit Valley,4.64073,10.6884,-61.5741,Landslide,Landslide,medium,Downpour
+4512,2012-08-23,NA,United States,US,Arizona,1445632,Phoenix,3.36522,33.4383,-112.0399,Landslide,Mudslide,medium,Downpour
+4518,2012-08-27,NA,Jamaica,JM,Portland,2321,Manchioneal,4.13454,18.0761,-76.2914,Landslide,Landslide,medium,Downpour
+4558,2012-09-16,NA,Trinidad and Tobago,TT,City of Port of Spain,49031,Port-of-Spain,2.54016,10.6771,-61.4982,Landslide,Landslide,medium,Downpour
+4568,2012-09-18,NA,United States,US,Tennessee,20979,East Ridge,1.24635,35.0203,-85.2634,Landslide,Landslide,medium,Downpour
+4575,2012-09-27,NA,United States,US,Colorado,2450,Laporte,18.34452,40.5733,-105.343,Landslide,Landslide,medium,Downpour
+4576,2012-09-27,NA,United States,US,Colorado,5858,Estes Park,37.11379,40.7067,-105.5951,Landslide,Landslide,medium,Downpour
+4588,2012-10-17,SA,Peru,PE,San Martín,0,Yuracyacu,8.89799,-6.0082,-77.2506,Landslide,Landslide,large,Downpour
+4593,2012-10-23,NA,Costa Rica,CR,San José,10028,Daniel Flores,4.89954,9.363,-83.6344,Landslide,Landslide,medium,Tropical cyclone
+4599,2012-10-30,NA,United States,US,New Hampshire,1213,Woodstock,14.34429,44.1009,-71.6322,Landslide,Landslide,medium,Tropical cyclone
+4600,2012-10-30,NA,United States,US,Pennsylvania,20313,West Mifflin,0.14473,40.3647,-79.8666,Landslide,Landslide,medium,Tropical cyclone
+4613,2012-11-14,NA,United States,US,North Carolina,1192,Lake Lure,4.23278,35.4401,-82.249,Landslide,Landslide,medium,Rain
+4632,2012-11-25,NA,Panama,PA,Colón,76643,Colón,0.16894,9.36,-79.9001,Landslide,Landslide,medium,Rain
+4634,2012-11-27,NA,Jamaica,JM,Portland,1119,Moore Town,3.1793,18.1041,-76.414,Landslide,Landslide,medium,Rain
+4637,2012-11-28,SA,Colombia,CO,Norte de Santander,2080,San Calixto,11.19714,8.4683,-73.2843,Landslide,Landslide,large,Rain
+4672,2012-12-21,NA,United States,US,Pennsylvania,305704,Pittsburgh,1.33115,40.4324,-80.0073,Landslide,Landslide,medium,Rain
+4678,2012-12-25,NA,Trinidad and Tobago,TT,Eastern Tobago,0,Roxborough,7.87263,11.2027,-60.6372,Landslide,Landslide,medium,Rain
+4679,2012-12-25,NA,Trinidad and Tobago,TT,Eastern Tobago,0,Roxborough,7.47816,11.3176,-60.5841,Landslide,Landslide,medium,Rain
+4680,2012-12-25,NA,Trinidad and Tobago,TT,Eastern Tobago,0,Roxborough,8.24676,11.3169,-60.55,Landslide,Landslide,medium,Rain
+4688,2012-12-29,SA,Colombia,CO,Huila,9829,Gigante,0.93184,2.7664,-75.0741,Landslide,Landslide,medium,Mining digging
+4710,2013-01-13,NA,Canada,CA,Ontario,115760,Guelph,12.17933,43.6187,-80.1432,Landslide,Mudslide,medium,Rain
+4711,2013-01-13,NA,United States,US,Kentucky,2583,Mount Vernon,1.23577,38.0145,-84.4953,Landslide,Landslide,medium,Rain
+4712,2013-01-14,NA,United States,US,Kentucky,225366,Lexington,2.4114,37.9745,-84.4985,Landslide,Landslide,medium,Rain
+4714,2013-01-15,NA,United States,US,North Carolina,1869,Mars Hill,0.0455,35.8269,-82.5494,Landslide,Mudslide,medium,Rain
+4715,2013-01-15,NA,United States,US,North Carolina,1150,Maggie Valley,5.63904,35.519,-83.1598,Landslide,Mudslide,medium,Rain
+4716,2013-01-15,NA,United States,US,Tennessee,178874,Knoxville,5.53703,35.9205,-83.9572,Landslide,Landslide,medium,Rain
+4717,2013-01-16,NA,United States,US,North Carolina,2138,Cherokee,13.86023,35.5898,-83.373,Landslide,Landslide,medium,Rain
+4719,2013-01-16,NA,United States,US,New Jersey,3279,Monmouth Beach,0.09035,40.3312,-73.9816,Landslide,Landslide,medium,Downpour
+4720,2013-01-16,NA,United States,US,North Carolina,6123,Woodfin,4.29814,35.6706,-82.5955,Landslide,Landslide,medium,Rain
+4721,2013-01-16,NA,United States,US,Tennessee,2355,Jellico,13.77073,36.5539,-83.9789,Landslide,Mudslide,medium,Rain
+4723,2013-01-17,NA,United States,US,North Carolina,620,Robbinsville,20.45203,35.3368,-84.0317,Landslide,Landslide,large,Rain
+4724,2013-01-17,NA,United States,US,Pennsylvania,305704,Pittsburgh,2.64611,40.4239,-80.0181,Landslide,Mudslide,medium,Rain
+4725,2013-01-18,NA,United States,US,North Carolina,1150,Maggie Valley,1.07913,35.5278,-83.0992,Landslide,Mudslide,medium,Rain
+4730,2013-01-24,SA,Ecuador,EC,Guayas,12205,Balao,16.34404,-2.9591,-79.6754,Landslide,Landslide,large,Rain
+4742,2013-01-30,NA,United States,US,Kentucky,777,Hindman,1.63625,37.345,-82.995,Landslide,Landslide,medium,Rain
+4760,2013-02-20,NA,United States,US,Arizona,1443,LeChee,31.6121,36.6468,-111.633,Landslide,Landslide,medium,Unknown
+4776,2013-03-18,NA,United States,US,Kentucky,28015,Nicholasville,11.48269,37.8868,-84.4427,Landslide,Landslide,medium,Rain
+4789,2013-03-28,SA,Brazil,BR,Amapá,83927,Santana,0.1702,-0.0568,-51.1818,Landslide,Landslide,medium,Other
+4804,2013-04-15,NA,United States,US,Pennsylvania,20079,Murrysville,4.82123,40.469,-79.6774,Landslide,Landslide,medium,Downpour
+4805,2013-04-17,NA,United States,US,Kentucky,6903,Pikeville,3.38725,37.4996,-82.4902,Landslide,Landslide,medium,Rain
+4806,2013-04-17,NA,United States,US,Iowa,67862,Iowa City,1.40658,41.6737,-91.5322,Landslide,Mudslide,medium,Rain
+4807,2013-04-17,NA,United States,US,Kentucky,1461,Loyall,1.40599,36.8529,-83.3698,Landslide,Landslide,medium,Rain
+4809,2013-04-17,NA,United States,US,Kentucky,1745,Harlan,0.94084,36.8502,-83.316,Landslide,Landslide,medium,Rain
+4810,2013-04-18,NA,United States,US,Illinois,1427,Granville,2.1294,41.2581,-89.2025,Landslide,Mudslide,medium,Rain
+4811,2013-04-18,NA,United States,US,Illinois,23402,East Peoria,2.39991,40.6535,-89.5556,Landslide,Mudslide,small,Rain
+4821,2013-04-23,SA,Ecuador,EC,Esmeraldas,165216,Esmeraldas,21.26652,0.7793,-79.5864,Landslide,Landslide,large,Rain
+4822,2013-04-25,NA,United States,US,North Carolina,872,Marshall,6.68251,35.8568,-82.6957,Landslide,Landslide,medium,Rain
+4824,2013-04-26,NA,Trinidad and Tobago,TT,Tobago,17000,Scarborough,6.35974,11.1954,-60.6764,Landslide,Landslide,large,Rain
+4828,2013-04-29,NA,United States,US,Ohio,1791,Glouster,2.06907,39.485,-82.079,Landslide,Landslide,medium,Rain
+4829,2013-04-29,NA,United States,US,North Carolina,1171,Cove Creek,2.06558,35.6172,-83.0299,Landslide,Landslide,medium,Rain
+4830,2013-04-30,NA,United States,US,Florida,28742,Clermont,0.39179,28.5529,-81.7737,Landslide,Mudslide,medium,Rain
+4862,2013-05-13,NA,U.S. Virgin Islands,VI,Saint John Island,2743,Cruz Bay,2.79535,18.3477,-64.7736,Landslide,Mudslide,medium,Rain
+4863,2013-05-13,NA,United States,US,Tennessee,2355,Jellico,15.98301,36.6195,-83.9526,Landslide,Landslide,medium,Downpour
+4866,2013-05-15,NA,United States,US,North Carolina,7848,Black Mountain,7.32191,35.6357,-82.2434,Landslide,Mudslide,medium,Rain
+4868,2013-05-19,NA,United States,US,Georgia,2536,Dawsonville,12.44051,34.3426,-84.0226,Landslide,Landslide,medium,Rain
+4871,2013-05-22,NA,United States,US,South Carolina,1312,Tigerville,7.92482,35.0972,-82.448,Landslide,Landslide,medium,Rain
+4872,2013-05-22,NA,United States,US,Minnesota,19540,West Saint Paul,1.89742,44.9179,-93.1255,Landslide,Rockfall,medium,Rain
+4874,2013-05-26,NA,Mexico,MX,Hidalgo,33196,Tepeji de Ocampo,0.64483,19.9006,-99.3417,Landslide,Landslide,large,Rain
+4877,2013-05-27,NA,United States,US,Missouri,17916,Hannibal,1.97078,39.7245,-91.3681,Landslide,Landslide,medium,Rain
+4879,2013-05-28,NA,Panama,PA,Colón,1274,Portobelo,2.67409,9.5676,-79.6667,Landslide,Landslide,medium,Downpour
+4880,2013-05-28,NA,Panama,PA,Colón,3302,Margarita,0.7476,9.3381,-79.8897,Landslide,Landslide,medium,Downpour
+4881,2013-05-28,NA,Panama,PA,Colón,76643,Colón,0.20365,9.3581,-79.9029,Landslide,Landslide,medium,Downpour
+4884,2013-05-29,NA,United States,US,Illinois,40633,Quincy,2.38934,39.9141,-91.411,Landslide,Landslide,small,Downpour
+4886,2013-05-29,NA,United States,US,New York,1213,Camillus,2.5486,43.0266,-76.3302,Landslide,Mudslide,small,Downpour
+4890,2013-05-31,SA,Ecuador,EC,Pichincha,26582,Cayambe,45.69792,-0.1193,-77.7668,Landslide,Landslide,medium,Downpour
+4918,2013-06-13,NA,United States,US,Kentucky,1461,Loyall,2.3688,36.8406,-83.3765,Landslide,Mudslide,medium,Rain
+4919,2013-06-14,NA,Trinidad and Tobago,TT,Tunapuna/Piarco,17758,Tunapuna,2.63186,10.6501,-61.4004,Landslide,Landslide,small,Downpour
+4922,2013-06-16,NA,United States,US,New York,1500,Middleburgh,1.41843,42.5889,-74.32,Landslide,Mudslide,small,Rain
+4935,2013-06-17,NA,United States,US,New York,1213,Camillus,2.5486,43.0266,-76.3302,Landslide,Mudslide,small,Downpour
+4961,2013-06-18,NA,United States,US,Vermont,1162,Williamstown,8.90467,44.1047,-72.4328,Landslide,Landslide,small,Rain
+4971,2013-06-23,NA,United States,US,Iowa,3897,Waukon,23.47684,43.3656,-91.218,Landslide,Mudslide,medium,Downpour
+4972,2013-06-23,NA,United States,US,New York,2598,Frankfort,17.52573,43.1925,-75.021,Landslide,Mudslide,small,Downpour
+4973,2013-06-24,NA,United States,US,Wisconsin,3231,Boscobel,2.89624,43.1604,-90.7085,Landslide,Mudslide,medium,Downpour
+4977,2013-06-24,NA,United States,US,Wisconsin,5911,Prairie du Chien,12.86889,43.1674,-91.1351,Landslide,Landslide,medium,Rain
+4980,2013-06-25,NA,United States,US,Minnesota,2868,Caledonia,24.86266,43.5735,-91.2006,Landslide,Rockfall,medium,Downpour
+4985,2013-06-26,NA,United States,US,New York,1213,Camillus,2.5486,43.0266,-76.3302,Landslide,Mudslide,small,Downpour
+4986,2013-06-26,NA,United States,US,Wisconsin,1418,Seymour,2.68314,44.8504,-91.4372,Landslide,Mudslide,small,Downpour
+4989,2013-06-27,NA,United States,US,Pennsylvania,14324,Pottsville,0.10261,40.6864,-76.1962,Landslide,Mudslide,small,Downpour
+4992,2013-06-27,NA,United States,US,New York,47376,Binghamton,2.11425,42.1144,-75.9324,Landslide,Mudslide,small,Rain
+4994,2013-06-28,NA,United States,US,Colorado,2450,Laporte,25.57232,40.6784,-105.4323,Landslide,Mudslide,medium,Downpour
+4998,2013-06-29,NA,United States,US,Pennsylvania,5565,Duquesne,0.89493,40.3892,-79.8627,Landslide,Landslide,medium,Unknown
+5104,2013-07-14,NA,United States,US,North Carolina,4051,Gamewell,9.34488,35.9242,-81.6747,Landslide,Mudslide,medium,Rain
+5105,2013-07-15,NA,United States,US,North Carolina,698,Newland,1.41898,36.0748,-81.9243,Landslide,Landslide,medium,Rain
+5109,2013-07-16,NA,United States,US,Colorado,1320,Mountain Village,10.80667,37.9693,-107.9697,Landslide,Mudslide,medium,Rain
+5110,2013-07-16,NA,United States,US,Colorado,1320,Mountain Village,15.04331,37.9935,-108.0086,Landslide,Mudslide,medium,Downpour
+5111,2013-07-16,NA,United States,US,Utah,9555,Alpine,1.82493,40.4678,-111.7679,Landslide,Mudslide,medium,Rain
+5113,2013-07-16,NA,United States,US,Utah,47407,Lehi,1.7526,40.4074,-111.8509,Landslide,Mudslide,small,Rain
+5114,2013-07-16,NA,United States,US,Utah,15523,Highland,5.27973,40.4905,-111.7377,Landslide,Mudslide,small,Rain
+5115,2013-07-16,NA,United States,US,Utah,1626,Ferron,21.43097,38.9231,-111.2493,Landslide,Mudslide,medium,Downpour
+5116,2013-07-16,NA,United States,US,Utah,15523,Highland,3.86093,40.4788,-111.7448,Landslide,Mudslide,small,Downpour
+5121,2013-07-17,NA,United States,US,Colorado,2826,Snowmass Village,27.54476,39.0715,-107.1995,Landslide,Mudslide,medium,Downpour
+5124,2013-07-17,NA,United States,US,Montana,1271,West Yellowstone,51.55941,45.0432,-110.732,Landslide,Mudslide,medium,Downpour
+5125,2013-07-18,NA,United States,US,Arizona,7247,Page,28.51122,37.1629,-111.373,Landslide,Debris flow,medium,Downpour
+5127,2013-07-18,NA,United States,US,Colorado,5858,Estes Park,13.74294,40.3364,-105.6744,Landslide,Landslide,medium,Rain
+5128,2013-07-18,SA,Colombia,CO,Caquetá,130337,Florencia,15.16116,1.7417,-75.6568,Landslide,Landslide,medium,Downpour
+5131,2013-07-18,NA,United States,US,Colorado,2692,Palisade,0.73594,39.1168,-108.3523,Landslide,Mudslide,medium,Downpour
+5132,2013-07-18,NA,United States,US,Colorado,1027,Minturn,3.19723,39.5672,-106.4031,Landslide,Mudslide,medium,Downpour
+5133,2013-07-18,NA,United States,US,Colorado,2826,Snowmass Village,27.05169,39.0718,-107.1928,Landslide,Mudslide,medium,Downpour
+5134,2013-07-18,NA,United States,US,Colorado,6427,Carbondale,24.70278,39.1808,-107.2396,Landslide,Mudslide,medium,Downpour
+5137,2013-07-19,NA,United States,US,Arizona,4885,Eagar,39.22402,33.7576,-109.2835,Landslide,Landslide,small,Downpour
+5141,2013-07-20,NA,United States,US,New Mexico,1770,Questa,4.75219,36.6918,-105.544,Landslide,Mudslide,medium,Rain
+5156,2013-07-22,NA,United States,US,California,3583,Idyllwild,7.79933,33.7165,-116.6396,Landslide,Mudslide,medium,Downpour
+5172,2013-07-23,NA,United States,US,Pennsylvania,28386,Monroeville,1.19691,40.4213,-79.774,Landslide,Landslide,small,Rain
+5173,2013-07-23,NA,United States,US,Pennsylvania,28386,Monroeville,1.67287,40.4252,-79.8071,Landslide,Landslide,small,Rain
+5174,2013-07-23,NA,United States,US,Pennsylvania,7862,White Oak,1.50672,40.3493,-79.8003,Landslide,Landslide,small,Downpour
+5175,2013-07-23,NA,United States,US,Pennsylvania,7862,White Oak,1.8001,40.3444,-79.79,Landslide,Landslide,small,Downpour
+5185,2013-07-24,NA,United States,US,Ohio,1592,Powhatan Point,21.79988,39.7447,-80.6094,Landslide,Mudslide,small,Downpour
+5186,2013-07-24,NA,United States,US,West Virginia,1779,Logan,5.91065,37.8228,-81.9348,Landslide,Landslide,medium,Downpour
+5188,2013-07-25,NA,United States,US,Ohio,1592,Powhatan Point,7.63247,39.8033,-80.7651,Landslide,Mudslide,medium,Rain
+5190,2013-07-25,NA,United States,US,West Virginia,1554,Chesapeake,7.84336,38.2213,-81.4467,Landslide,Landslide,small,Downpour
+5191,2013-07-25,NA,United States,US,Colorado,2450,Laporte,13.16549,40.6937,-105.2659,Landslide,Mudslide,small,Downpour
+5192,2013-07-25,SA,Colombia,CO,Huila,3942,Áquira,3.14201,2.6752,-75.6447,Landslide,Rockfall,medium,Rain
+5212,2013-07-27,NA,United States,US,North Carolina,40010,Hickory,0.9757,35.7244,-81.3408,Landslide,Mudslide,small,Rain
+5216,2013-07-27,NA,United States,US,North Carolina,2112,Millers Creek,17.74135,36.2204,-81.4311,Landslide,Landslide,medium,Rain
+5219,2013-07-28,NA,United States,US,Colorado,2450,Laporte,19.55437,40.6875,-105.3546,Landslide,Mudslide,medium,Downpour
+5221,2013-07-28,NA,United States,US,Colorado,2450,Laporte,12.14412,40.6124,-105.2801,Landslide,Mudslide,medium,Downpour
+5229,2013-07-28,NA,United States,US,Colorado,1451,Paonia,2.33014,38.8815,-107.6129,Landslide,Debris flow,small,Downpour
+5242,2013-07-31,NA,United States,US,Georgia,3684,Jasper,5.0514,34.5117,-84.444,Landslide,Mudslide,medium,Rain
+5243,2013-07-31,NA,United States,US,Georgia,3684,Jasper,4.33442,34.463,-84.4759,Landslide,Mudslide,medium,Rain
+5318,2013-08-13,NA,United States,US,Kentucky,1706,Coal Run Village,10.79203,37.4598,-82.6605,Landslide,Mudslide,small,Downpour
+5319,2013-08-13,NA,United States,US,West Virginia,5366,New Martinsville,24.21776,39.6926,-80.5823,Landslide,Landslide,small,Downpour
+5345,2013-08-17,NA,United States,US,Alabama,9015,Andalusia,1.69766,31.3077,-86.5011,Landslide,Landslide,small,Tropical cyclone
+5350,2013-08-18,NA,United States,US,Nevada,24085,Summerlin South,23.60286,36.2423,-115.5421,Landslide,Debris flow,medium,Downpour
+5351,2013-08-18,NA,United States,US,Nevada,36441,Pahrump,31.0066,36.2566,-115.6442,Landslide,Debris flow,medium,Downpour
+5385,2013-08-22,NA,United States,US,Utah,9555,Alpine,1.96154,40.4679,-111.765,Landslide,Mudslide,medium,Downpour
+5387,2013-08-23,NA,United States,US,Pennsylvania,1048,Bear Rocks,3.0665,40.1504,-79.4592,Landslide,Mudslide,medium,Downpour
+5389,2013-08-23,NA,United States,US,Idaho,54255,Pocatello,0.57038,42.8729,-112.4389,Landslide,Mudslide,medium,Downpour
+5390,2013-08-23,NA,United States,US,Utah,2129,Huntington,22.93764,39.4714,-111.1546,Landslide,Debris flow,medium,Downpour
+5397,2013-08-24,NA,United States,US,Tennessee,12714,Soddy-Daisy,5.71688,35.2865,-85.1789,Landslide,Mudslide,small,Rain
+5400,2013-08-25,NA,United States,US,California,3552,Morongo Valley,1.82682,34.0588,-116.5671,Landslide,Mudslide,medium,Tropical cyclone
+5403,2013-08-26,NA,Mexico,MX,Veracruz-Llave,30607,Coatzintla,1.52983,20.5004,-97.4647,Landslide,Landslide,medium,Tropical cyclone
+5405,2013-08-26,NA,Mexico,MX,Veracruz-Llave,15800,Altotonga,2.85382,19.7906,-97.2428,Landslide,Landslide,medium,Tropical cyclone
+5406,2013-08-26,NA,Mexico,MX,Veracruz-Llave,3198,Yecuatla,3.7316,19.8413,-96.8005,Landslide,Landslide,medium,Downpour
+5408,2013-08-27,NA,Costa Rica,CR,Alajuela,1015,Sabanilla,4.87432,10.1181,-84.2146,Landslide,Landslide,medium,Downpour
+5411,2013-08-28,NA,United States,US,Colorado,2325,Telluride,9.89859,37.8943,-107.7138,Landslide,Rockfall,medium,Downpour
+5415,2013-08-29,NA,Honduras,HN,Cortés,1146,Los Caminos,3.53737,14.951,-87.9338,Landslide,Landslide,medium,Downpour
+5418,2013-08-29,NA,United States,US,Idaho,3112,Salmon,26.56626,45.3871,-114.0541,Landslide,Debris flow,medium,Downpour
+5419,2013-08-30,NA,United States,US,California,29603,Banning,9.26566,33.8426,-116.8648,Landslide,Debris flow,medium,Downpour
+5420,2013-08-30,NA,United States,US,Nevada,36441,Pahrump,18.54588,36.1054,-115.8215,Landslide,Mudslide,medium,Rain
+5523,2013-09-13,NA,United States,US,Utah,21785,Herriman,10.80925,40.4893,-112.1563,Landslide,Landslide,medium,Downpour
+5524,2013-09-14,NA,United States,US,New Mexico,545852,Albuquerque,2.54139,35.0952,-106.6265,Landslide,Mudslide,small,Downpour
+5525,2013-09-14,NA,United States,US,Idaho,19908,Eagle,8.21552,43.7521,-116.2885,Landslide,Mudslide,medium,Rain
+5526,2013-09-14,NA,Mexico,MX,Oaxaca,3630,San Andrés Huayapam,11.8349,17.1933,-96.6045,Landslide,Landslide,very_large,Tropical cyclone
+5527,2013-09-15,NA,Mexico,MX,Hidalgo,1236,Fontezuelas,9.78251,20.5402,-98.9492,Landslide,Landslide,very_large,Tropical cyclone
+5528,2013-09-15,NA,Mexico,MX,Puebla,9720,Tlatlauquitepec,0.30326,19.849,-97.4997,Landslide,Landslide,very_large,Tropical cyclone
+5529,2013-09-15,NA,United States,US,Colorado,5858,Estes Park,9.31567,40.2935,-105.529,Landslide,Landslide,medium,Tropical cyclone
+5530,2013-09-15,NA,Mexico,MX,Guerrero,652136,Acapulco,0.90692,16.8638,-99.8816,Landslide,Mudslide,very_large,Downpour
+5532,2013-09-16,NA,Mexico,MX,Veracruz-Llave,15800,Altotonga,0.50188,19.7615,-97.2422,Landslide,Landslide,medium,Tropical cyclone
+5534,2013-09-16,NA,Mexico,MX,Guerrero,21407,Atoyac de Álvarez,32.12708,17.3461,-100.1681,Landslide,Mudslide,medium,Tropical cyclone
+5538,2013-09-16,NA,Mexico,MX,Guerrero,1252,San Pablo Atzompa,14.04274,17.225,-98.5,Landslide,Landslide,medium,Downpour
+5539,2013-09-16,NA,Mexico,MX,Puebla,1123,Atzala,5.24855,18.5938,-98.5539,Landslide,Landslide,medium,Tropical cyclone
+5540,2013-09-16,NA,Costa Rica,CR,Alajuela,1015,Sabanilla,10.32968,10.1648,-84.1933,Landslide,Landslide,medium,Tropical cyclone
+5541,2013-09-16,NA,Costa Rica,CR,Heredia,5745,Santo Domingo,9.85736,10.1528,-84.1489,Landslide,Landslide,medium,Tropical cyclone
+5542,2013-09-16,NA,Mexico,MX,Veracruz-Llave,1543,Tetlaxco,4.5182,19.0603,-97.1009,Landslide,Landslide,medium,Tropical cyclone
+5543,2013-09-16,NA,Mexico,MX,Guerrero,165250,Chilpancingo de los Bravos,0.88149,17.5482,-99.5137,Landslide,Mudslide,medium,Tropical cyclone
+5544,2013-09-18,NA,United States,US,Utah,21785,Herriman,9.5519,40.5366,-112.1418,Landslide,Landslide,medium,Mining digging
+5545,2013-09-19,NA,United States,US,Colorado,16887,Durango,7.53236,37.335,-107.8397,Landslide,Debris flow,medium,Downpour
+5546,2013-09-19,NA,United States,US,Colorado,16887,Durango,5.78799,37.3233,-107.8546,Landslide,Mudslide,medium,Downpour
+5547,2013-09-19,NA,United States,US,Colorado,16887,Durango,8.65408,37.3466,-107.8406,Landslide,Mudslide,medium,Downpour
+5560,2013-09-29,NA,United States,US,Idaho,485,Idaho City,39.35619,43.8187,-115.3455,Landslide,Landslide,large,Continuous rain
+5561,2013-09-29,NA,United States,US,Idaho,485,Idaho City,44.26251,43.8161,-115.2846,Landslide,Landslide,medium,Downpour
+5562,2013-09-29,NA,Panama,PA,Panamá,69102,Las Cumbres,2.81479,9.0655,-79.5516,Landslide,Landslide,medium,Downpour
+5564,2013-09-30,NA,United States,US,Colorado,2617,Buena Vista,16.21071,38.7205,-106.2342,Landslide,Landslide,medium,Unknown
+5566,2013-09-30,NA,United States,US,Massachusetts,19030,Southbridge,2.82925,42.1004,-72.0295,Landslide,Landslide,medium,Continuous rain
+5640,2013-11-14,NA,Trinidad and Tobago,TT,Tobago,17000,Scarborough,3.22335,11.2109,-60.7429,Landslide,Landslide,medium,Downpour
+5641,2013-11-14,NA,Trinidad and Tobago,TT,Tobago,17000,Scarborough,3.88123,11.2084,-60.7582,Landslide,Landslide,medium,Downpour
+5653,2013-11-20,NA,United States,US,West Virginia,1638,Montgomery,13.31637,38.1077,-81.4493,Landslide,Mudslide,medium,Unknown
+5663,2013-11-27,NA,United States,US,New Jersey,50005,Hoboken,0.90146,40.7427,-74.0429,Landslide,Mudslide,small,Unknown
+5693,2013-12-16,NA,Mexico,MX,Tabasco,1732,Olcuatitán,4.32007,18.1563,-92.979,Landslide,Landslide,medium,Continuous rain
+5697,2013-12-19,NA,United States,US,California,20292,Ramona,3.30093,33.0375,-116.8331,Landslide,Mudslide,small,Rain
+5704,2013-12-21,NA,United States,US,Pennsylvania,1746,Cheswick,1.60422,40.5276,-79.7953,Landslide,Landslide,small,Unknown
+5705,2013-12-21,NA,United States,US,Pennsylvania,11761,Lower Burrell,3.06925,40.542,-79.7241,Landslide,Landslide,small,Unknown
+5709,2013-12-22,NA,United States,US,Kentucky,777,Hindman,9.94567,37.4046,-82.9083,Landslide,Mudslide,small,Rain
+5715,2013-12-24,NA,Dominica,DM,Saint Paul,702,Pont Cassé,4.20239,15.3288,-61.347,Landslide,Mudslide,large,Downpour
+5718,2013-12-24,NA,Saint Lucia,LC,Praslin,1906,Praslin,3.81469,13.8891,-60.9268,Landslide,Landslide,large,Downpour
+5719,2013-12-24,NA,Saint Vincent and the Grenadines,VC,Charlotte,1680,Georgetown,8.63974,13.3382,-61.1912,Landslide,Landslide,very_large,Downpour
+5720,2013-12-24,NA,Dominica,DM,Saint John,3633,Portsmouth,5.92994,15.6308,-61.441,Landslide,Landslide,medium,Downpour
+5721,2013-12-24,NA,Dominica,DM,Saint Mark,1416,Soufrière,1.80847,15.2174,-61.3583,Landslide,Landslide,medium,Downpour
+5730,2013-12-27,NA,United States,US,West Virginia,1394,Oceana,22.89616,37.8765,-81.5076,Landslide,Landslide,medium,Unknown
+5731,2013-12-28,NA,Mexico,MX,Baja California,9085,El Sauzal,12.365,31.978,-116.7776,Landslide,Mudslide,medium,Downpour
+5732,2013-12-28,NA,United States,US,New Hampshire,1600,Gorham,17.23167,44.2637,-71.3026,Landslide,Snow avalanche,medium,Other
+5735,2013-12-30,NA,United States,US,West Virginia,2406,Welch,12.7902,37.4204,-81.4409,Landslide,Landslide,small,Unknown
+5777,2014-01-14,NA,United States,US,Pennsylvania,305704,Pittsburgh,1.31322,40.429,-79.9988,Landslide,Landslide,medium,unknown
+5785,2014-01-14,NA,United States,US,Pennsylvania,9643,Brentwood,1.87113,40.3865,-79.9675,Landslide,Landslide,medium,unknown
+5868,2014-02-14,SA,Colombia,CO,Nariño,1091,Cumbitara,16.97776,1.6818,-77.7319,Landslide,Landslide,large,Downpour
+5871,2014-02-15,NA,Bermuda,BM,Hamilton city,902,Hamilton,0.89751,32.3032,-64.7792,Landslide,Landslide,medium,Downpour
+5888,2014-02-21,NA,United States,US,Kentucky,4407,Ludlow,1.22118,39.0963,-84.5607,Landslide,Mudslide,medium,Continuous rain
+5893,2014-02-22,NA,United States,US,Kentucky,3255,Prestonsburg,11.74439,37.5927,-82.8679,Landslide,Mudslide,medium,Snowfall snowmelt
+5896,2014-02-23,NA,United States,US,Kentucky,15273,Newport,1.39322,39.1037,-84.4995,Landslide,Mudslide,medium,Snowfall snowmelt
+5903,2014-02-27,NA,United States,US,Utah,6051,South Weber,0.87758,41.1272,-111.9381,Landslide,Landslide,medium,Downpour
+5948,2014-03-13,NA,United States,US,Ohio,4368,Saint Bernard,3.98882,39.1396,-84.5284,Landslide,Landslide,medium,Continuous rain
+5950,2014-03-14,NA,United States,US,Pennsylvania,3239,Manor,1.72576,40.3204,-79.68,Landslide,Landslide,small,unknown
+5951,2014-03-15,NA,United States,US,Pennsylvania,3403,Mount Oliver,3.52327,40.428,-79.9504,Landslide,Landslide,medium,unknown
+5957,2014-03-13,SA,Colombia,CO,Valle del Cauca,247986,Palmira,7.70237,3.5181,-76.2244,Landslide,Mudslide,large,Continuous rain
+5959,2014-03-16,SA,Colombia,CO,Huila,9896,Palermo,3e-05,2.8917,-75.4375,Landslide,mudslide,large,Continuous rain
+5960,2014-03-16,SA,Colombia,CO,Santander,571820,Bucaramanga,1.33829,7.1133,-73.1205,Landslide,mudslide,large,Continuous rain
+5961,2014-03-17,NA,United States,US,Pennsylvania,305704,Pittsburgh,1.91563,40.4519,-79.9787,Landslide,mudslide,medium,unknown
+5967,2014-03-20,NA,United States,US,Connecticut,51384,Stratford,0.76857,41.2008,-73.1157,Landslide,Mudslide,small,Continuous rain
+5973,2014-03-26,NA,United States,US,Kentucky,16325,Fort Thomas,0.84033,39.0787,-84.4386,Landslide,Landslide,small,unknown
+5977,2014-03-29,NA,United States,US,New York,2244,Nedrow,7.01558,42.9429,-76.0673,Landslide,Mudslide,small,Rain
+6003,2014-04-30,NA,United States,US,Maryland,620961,Baltimore,5.94285,39.3194,-76.6163,Landslide,Landslide,medium,Downpour
+6004,2014-04-30,NA,United States,US,Kentucky,3255,Prestonsburg,13.32465,37.5457,-82.7778,Landslide,Mudslide,small,Rain
+6007,2014-04-30,NA,United States,US,New Jersey,1849,Alpine,1.62138,40.949,-73.8992,Landslide,Mudslide,small,Downpour
+6023,2014-05-13,NA,United States,US,Pennsylvania,305704,Pittsburgh,1.27111,40.4301,-80.0017,Landslide,Landslide,small,Rain
+6026,2014-05-15,NA,United States,US,New York,1183,Shokan,26.62969,42.1633,-74.4086,Landslide,Landslide,medium,Rain
+6028,2014-05-16,NA,United States,US,Virginia,7042,Lexington,20.62473,37.9425,-79.5653,Landslide,Mudslide,small,Rain
+6038,2014-05-25,NA,United States,US,Colorado,2253,Cedaredge,16.89741,39.1652,-107.8476,Landslide,Complex,very_large,Rain
+6039,2014-05-27,NA,United States,US,Colorado,1079,Keystone,8.62122,39.632,-105.8961,Landslide,Mudslide,small,Rain
+6040,2014-05-30,NA,Guatemala,GT,Huehuetenango,3554,San Pedro Necta,0.91108,15.4918,-91.7671,Landslide,Mudslide,small,Downpour
+6058,2014-06-15,NA,United States,US,Maine,1097,Wiscasset,9.00019,44.0765,-69.6188,Landslide,Landslide,small,Continuous rain
+6064,2014-06-18,NA,United States,US,Minnesota,13394,North Mankato,5.90746,44.1208,-94.0453,Landslide,Mudslide,small,Downpour
+6066,2014-06-18,NA,United States,US,Minnesota,39309,Mankato,1.73178,44.1547,-93.9816,Landslide,Mudslide,small,Rain
+6067,2014-06-18,NA,United States,US,Minnesota,4058,Le Sueur,6.99107,44.524,-93.9072,Landslide,Landslide,small,Downpour
+6071,2014-06-19,NA,United States,US,Minnesota,6661,Belle Plaine,3.37657,44.6474,-93.7933,Landslide,Mudslide,small,Continuous rain
+6072,2014-06-19,NA,United States,US,Minnesota,382578,Minneapolis,0.25471,44.9817,-93.2659,Landslide,Mudslide,small,Continuous rain
+6073,2014-06-19,NA,United States,US,Minnesota,285068,Saint Paul,2.31638,44.9398,-93.1219,Landslide,Mudslide,small,Continuous rain
+6076,2014-06-19,NA,United States,US,Minnesota,382578,Minneapolis,2.50336,44.9683,-93.2365,Landslide,Mudslide,medium,Continuous rain
+6079,2014-06-20,NA,United States,US,Minnesota,4058,Le Sueur,7.07406,44.5248,-93.9077,Landslide,Mudslide,small,Continuous rain
+6080,2014-06-20,NA,United States,US,Minnesota,285068,Saint Paul,2.99793,44.9459,-93.0553,Landslide,Mudslide,small,Continuous rain
+6083,2014-06-20,NA,United States,US,Minnesota,6661,Belle Plaine,7.97257,44.5768,-93.8457,Landslide,Mudslide,medium,Rain
+6088,2014-06-23,NA,United States,US,Minnesota,6661,Belle Plaine,7.02197,44.594,-93.8473,Landslide,Mudslide,medium,Downpour
+6089,2014-06-23,NA,Nicaragua,NI,Chontales,5827,Santo Domingo,31.14242,12.3535,-84.8095,Landslide,Landslide,small,Continuous rain
+6090,2014-06-23,NA,Nicaragua,NI,Chontales,5827,Santo Domingo,31.24511,12.3521,-84.808,Landslide,Landslide,medium,Continuous rain
+6091,2014-06-23,NA,Nicaragua,NI,Chontales,5827,Santo Domingo,31.3736,12.3511,-84.8064,Landslide,Landslide,medium,Continuous rain
+6092,2014-06-23,NA,Nicaragua,NI,Chontales,5827,Santo Domingo,31.10125,12.3506,-84.8089,Landslide,Landslide,medium,Continuous rain
+6093,2014-06-23,NA,Nicaragua,NI,Chontales,5827,Santo Domingo,30.99704,12.3502,-84.8098,Landslide,Landslide,medium,Continuous rain
+6094,2014-06-23,NA,Nicaragua,NI,Chontales,5827,Santo Domingo,30.7707,12.349,-84.8116,Landslide,Landslide,medium,Continuous rain
+6095,2014-06-23,NA,Nicaragua,NI,Chontales,5827,Santo Domingo,30.27546,12.3487,-84.8163,Landslide,Landslide,small,Continuous rain
+6096,2014-06-23,NA,Nicaragua,NI,Chontales,5827,Santo Domingo,29.95253,12.349,-84.8195,Landslide,Landslide,medium,Continuous rain
+6097,2014-06-23,NA,Nicaragua,NI,Chontales,5827,Santo Domingo,29.92927,12.3484,-84.8195,Landslide,Landslide,medium,Continuous rain
+6098,2014-06-23,NA,Nicaragua,NI,Chontales,5827,Santo Domingo,28.90294,12.3129,-84.8199,Landslide,Landslide,medium,Continuous rain
+6099,2014-06-23,NA,Nicaragua,NI,Chontales,5827,Santo Domingo,32.69694,12.3484,-84.7928,Landslide,Landslide,medium,Continuous rain
+6100,2014-06-23,NA,Nicaragua,NI,Chontales,5827,Santo Domingo,32.96402,12.3476,-84.79,Landslide,Landslide,medium,Continuous rain
+6101,2014-06-23,NA,Nicaragua,NI,Chontales,5827,Santo Domingo,32.77401,12.352,-84.7932,Landslide,Landslide,medium,Continuous rain
+6102,2014-06-23,NA,Nicaragua,NI,Chontales,5827,Santo Domingo,29.94574,12.3491,-84.8196,Landslide,Landslide,medium,Continuous rain
+6103,2014-06-25,NA,United States,US,Pennsylvania,3722,Boalsburg,2.1472,40.7918,-77.7785,Landslide,Mudslide,small,Rain
+6109,2014-06-27,NA,United States,US,Minnesota,1325,Preston,14.33305,43.7638,-91.9607,Landslide,Mudslide,small,Rain
+6114,2014-06-29,NA,United States,US,Iowa,126326,Cedar Rapids,4.98458,41.9738,-91.6056,Landslide,Mudslide,small,Rain
+6148,2014-07-15,NA,United States,US,Wyoming,9520,Cody,66.07162,44.4686,-109.8833,Landslide,Mudslide,small,Rain
+6149,2014-07-15,NA,United States,US,Colorado,5236,Salida,7.6987,38.5064,-106.0795,Landslide,Mudslide,medium,Rain
+6161,2014-07-19,NA,United States,US,Colorado,1655,Cascade-Chipita Park,1.37598,38.9398,-105.0175,Landslide,Mudslide,small,Downpour
+6166,2014-07-20,NA,United States,US,California,3429,Borrego Springs,20.08692,33.3124,-116.5799,Landslide,Mudslide,small,Downpour
+6185,2014-07-28,NA,United States,US,Utah,5389,Nephi,5.80331,39.7153,-111.769,Landslide,Mudslide,small,Rain
+6202,2014-05-20,NA,Honduras,HN,Yoro,15774,Yoro,0.31238,15.0666,-87.3245,Landslide,Landslide,medium,Rain
+6221,2014-09-24,NA,United States,US,Iowa,1459,Woodbine,5.71009,41.7878,-95.6841,Landslide,Landslide,small,Unknown
+6226,2014-04-17,NA,United States,US,Wyoming,9577,Jackson,1.70313,43.4756,-110.7826,Landslide,Creep,small,Snowfall snowmelt
+6246,2014-10-14,NA,United States,US,Tennessee,1832,Lookout Mountain,0.5826,34.9922,-85.3435,Landslide,Landslide,small,Downpour
+6251,2014-10-13,NA,El Salvador,SV,San Miguel,6393,Chirilagua,6.94536,13.2817,-88.1253,Landslide,Rockfall,small,Earthquake
+6254,2014-05-15,NA,United States,US,Pennsylvania,1515,Versailles,1.57546,40.3034,-79.8406,Landslide,Landslide,small,Continuous rain
+6269,2014-10-18,NA,Mexico,MX,Guerrero,1018,Colonia Alborada,4.1083,16.885,-99.8562,Landslide,Landslide,small,Tropical cyclone
+6270,2014-10-16,NA,Nicaragua,NI,Managua,70013,Ciudad Sandino,5.59574,12.1137,-86.2409,Landslide,Mudslide,small,Downpour
+6278,2014-05-15,NA,United States,US,Maryland,23717,Fort Washington,2.15609,38.6987,-77.0008,Landslide,Mudslide,small,Downpour
+6297,2014-09-19,NA,Costa Rica,CR,Alajuela,9687,,5.57523,9.9643,-84.252,Landslide,Landslide,small,Rain
+6301,2014-10-23,NA,Trinidad and Tobago,TT,Siparia,8568,Siparia,3.752,10.124,-61.5329,Landslide,Mudslide,medium,Downpour
+6308,2014-10-20,SA,Ecuador,EC,Carchi,15112,San Gabriel,10.47204,0.6194,-77.7404,Landslide,Rockfall,small,Earthquake
+6309,2014-10-21,SA,Colombia,CO,Santander,11265,San Vicente de Chucurí,1.08964,6.8907,-73.4081,Landslide,Rockfall,small,Rain
+6318,2014-09-16,NA,United States,US,Utah,18761,Washington,1.34549,37.1422,-113.5043,Landslide,Debris flow,small,Rain
+6342,2014-01-15,NA,United States,US,Pennsylvania,2190,Wilmerding,0.35963,40.3883,-79.8126,Landslide,Rockfall,small,Unknown
+6372,2014-08-23,NA,United States,US,Wyoming,9520,Cody,59.36537,44.4544,-109.7961,Landslide,Rockfall,small,Unknown
+6388,2014-11-17,NA,United States,US,Alabama,81619,Hoover,3.51822,33.3747,-86.8019,Landslide,Landslide,small,Downpour
+6390,2014-11-21,NA,United States,US,California,44199,San Jacinto,4.90583,33.8256,-116.9762,Landslide,Landslide,small,Rain
+6395,2013-04-18,NA,United States,US,Illinois,23402,East Peoria,2.36449,40.6545,-89.5567,Landslide,Landslide,small,Rain
+6396,2013-04-18,NA,United States,US,Illinois,23402,East Peoria,2.33139,40.6549,-89.5569,Landslide,Landslide,small,Rain
+6404,2014-11-28,NA,Canada,CA,Ontario,519949,Hamilton,4.79449,43.2804,-79.8919,Landslide,Landslide,small,Unknown
+6417,2014-08-28,NA,Nicaragua,NI,Ogun State,6315,Bonanza,0.37593,14.0256,-84.5919,Landslide,Landslide,medium,Downpour
+6505,2014-12-13,SA,Ecuador,EC,Sucumbios,0,Gonzalo Pizarro,11.55916,-0.1331,-77.4613,Landslide,Mudslide,medium,Unknown
+6506,2014-08-13,NA,United States,US,Idaho,485,Idaho City,9.77449,43.8807,-115.7367,Landslide,Mudslide,small,Rain
+6507,2014-08-14,NA,United States,US,Nevada,15023,Boulder City,2.66,36.0026,-114.8324,Landslide,Debris flow,small,Downpour
+6508,2014-08-14,NA,United States,US,Wyoming,1176,Hoback,17.26708,43.1888,-110.9541,Landslide,Creep,medium,Downpour
+6533,2014-08-18,NA,United States,US,Kentucky,777,Hindman,1.90244,37.3344,-82.9591,Landslide,Mudslide,small,Downpour
+6542,2014-08-21,NA,United States,US,New York,2229,Canajoharie,10.30458,42.8147,-74.5965,Landslide,Mudslide,small,Downpour
+6543,2014-08-21,NA,Costa Rica,CR,Alajuela,9853,Rio Segundo,11.96524,10.2878,-84.1807,Landslide,Mudslide,large,Unknown
+6547,2014-08-22,NA,United States,US,Kentucky,1706,Coal Run Village,10.17779,37.5715,-82.6473,Landslide,Mudslide,small,Downpour
+6579,2014-12-21,SA,Colombia,CO,Cauca,3120,Almaguer,17.31514,1.8362,-76.9857,Landslide,Mudslide,large,Rain
+6581,2014-01-16,NA,United States,US,Pennsylvania,4176,Waynesburg,2.22576,39.9144,-80.1676,Landslide,Landslide,medium,Unknown
+6586,2014-10-20,NA,Guatemala,GT,Sololá,9986,Zunil,7.03115,14.7836,-91.1836,Landslide,Landslide,small,Rain
+6603,2014-12-25,NA,Canada,CA,Quebec,3805,Sutton,4.33884,45.1058,-72.5613,Landslide,Landslide,small,Unknown
+6607,2014-12-27,NA,United States,US,Colorado,1027,Minturn,4.47152,39.556,-106.3967,Landslide,Rockfall,small,Unknown
+6660,2014-07-28,NA,Guatemala,GT,Baja Verapaz,5370,Purulhá,5.88787,15.2322,-90.2417,Landslide,Landslide,medium,Rain
+6661,2014-09-23,NA,Guatemala,GT,Guatemala,67994,Santa Catarina Pinula,2.70053,14.5932,-90.4979,Landslide,Landslide,medium,Rain
+6662,2014-12-20,NA,Guatemala,GT,Guatemala,994938,Guatemala City,2.5962,14.664,-90.5164,Landslide,Landslide,medium,Rain
+6663,2014-05-21,NA,United States,US,Illinois,5405,Highwood,2.92584,42.2261,-87.8107,Landslide,Other,small,Rain
+6666,2014-09-27,NA,Guatemala,GT,Huehuetenango,1713,Cuilco,3.30989,15.3975,-91.9955,Landslide,Landslide,medium,Downpour
+6667,2014-10-31,NA,Guatemala,GT,Guatemala,97172,Chinautla,5.94535,14.674,-90.457,Landslide,Landslide,small,Downpour
+6668,2014-06-24,NA,Guatemala,GT,Quiché,2693,Chinique,3.98185,15.0771,-91.0096,Landslide,Landslide,medium,Rain
+6669,2014-09-27,NA,Guatemala,GT,San Marcos,6438,Tacaná,0.75729,15.2422,-92.0738,Landslide,Landslide,medium,Rain
+6670,2014-11-14,SA,Colombia,CO,Antioquia,16707,Barbosa,7.78677,6.5046,-75.3081,Landslide,Landslide,medium,Unknown
+6672,2014-10-13,NA,Honduras,HN,Ocotepeque,2389,Sinuapa,2.00805,14.4579,-89.1666,Landslide,Landslide,medium,Downpour
+6674,2014-09-29,SA,Ecuador,EC,Azuay,276964,Cuenca,13.21139,-2.847,-79.1108,Landslide,Rockfall,small,Unknown
+6675,2014-05-22,NA,El Salvador,SV,San Miguel,19095,San Rafael Oriente,10.06695,13.4379,-88.2756,Landslide,Debris flow,medium,Rain
+6679,2014-04-21,NA,El Salvador,SV,Cabañas,39361,San Martín,8.82525,13.8379,-88.8571,Landslide,Landslide,medium,Unknown
+6680,2014-04-30,SA,Ecuador,EC,Zamora-Chinchipe,15276,Zamora,1.23724,-4.0602,-78.9638,Landslide,Landslide,small,Downpour
+6681,2014-10-15,NA,El Salvador,SV,Sonsonate,7358,Nahuizalco,4.23875,13.7895,-89.7739,Landslide,Landslide,medium,Continuous rain
+6682,2014-10-15,NA,El Salvador,SV,Sonsonate,15446,Sonzacate,3.22235,13.7135,-89.6938,Landslide,Landslide,medium,Continuous rain
+6683,2014-10-15,NA,El Salvador,SV,La Paz,2654,San Pedro Masahuat,0.31933,13.5461,-89.0401,Landslide,Landslide,medium,Continuous rain
+6684,2014-10-15,NA,El Salvador,SV,San Miguel,6393,Chirilagua,9.97227,13.293,-88.0843,Landslide,Landslide,medium,Continuous rain
+6689,2014-07-31,NA,Honduras,HN,Cortés,1043,Agua Azul Rancho,0.97057,14.8955,-87.9423,Landslide,Landslide,small,Unknown
+6690,2014-11-19,SA,Peru,PE,Ancash,0,Huachis,3.26788,-9.3884,-77.1255,Landslide,Landslide,medium,Downpour
+6691,2014-10-14,NA,Honduras,HN,Santa Bárbara,1759,Agualote,2.91594,15.309,-88.551,Landslide,Landslide,medium,Rain
+6692,2014-11-23,NA,Nicaragua,NI,Rivas,2771,Altagracia,1.97784,11.5644,-85.5964,Landslide,Landslide,medium,Unknown
+6695,2014-09-13,NA,Costa Rica,CR,Cartago,26594,Cartago,3.07297,9.8895,-83.9316,Landslide,Landslide,small,Rain
+6696,2014-12-13,NA,Costa Rica,CR,Heredia,0,Dulce Nombre de Jesus,10.0131,10.2054,-83.9041,Landslide,Landslide,medium,Unknown
+6698,2014-09-19,NA,Costa Rica,CR,San José,34877,San Isidro,10.73752,9.4359,-83.6303,Landslide,Landslide,medium,Rain
+6700,2014-09-25,NA,Panama,PA,Chiriquí,1908,Río Sereno,0.64491,8.8229,-82.8416,Landslide,Landslide,medium,Downpour
+6701,2014-09-14,NA,Panama,PA,Panamá,19782,Alcaldedíaz,1.41526,9.1139,-79.5626,Landslide,Other,small,Rain
+6703,2014-06-17,NA,Panama,PA,Panamá,321501,San Miguelito,4.18074,9.0329,-79.538,Landslide,Mudslide,medium,Unknown
+6704,2014-08-17,NA,Panama,PA,Chiriquí,2957,Cerro Punta,3.33873,8.8528,-82.5969,Landslide,Landslide,small,Downpour
+6705,2014-06-24,NA,Panama,PA,Panamá,9169,Ancón,2.24069,8.9763,-79.5391,Landslide,Landslide,small,Unknown
+6708,2014-05-18,NA,Puerto Rico,PR,Vega Alta,12036,Vega Alta,3.4909,18.3806,-66.3319,Landslide,Other,small,Rain
+6709,2014-09-24,NA,Puerto Rico,PR,Aguada,4040,Aguada,1.40257,18.3711,-67.1782,Landslide,Landslide,medium,Downpour
+6710,2014-08-24,NA,Puerto Rico,PR,Ponce,5080,Adjuntas,5.78872,18.1283,-66.681,Landslide,Landslide,small,Downpour
+6711,2014-08-24,NA,Puerto Rico,PR,Ponce,5080,Adjuntas,6.89036,18.1254,-66.67,Landslide,Landslide,medium,Downpour
+6722,2014-05-27,NA,Haiti,HT,Nord,134815,Okap,1.58489,19.7698,-72.2085,Landslide,Landslide,small,Continuous rain
+6731,2015-01-21,NA,United States,US,Idaho,1081,Joseph,44.08725,45.2091,-116.7067,Landslide,Rockfall,small,Unknown
+6735,2015-01-28,NA,Costa Rica,CR,San José,34877,San Isidro,22.32368,9.7962,-83.9498,Landslide,Landslide,small,Continuous rain
+6787,2015-02-21,NA,United States,US,Pennsylvania,8987,Beaver Falls,7.52989,40.7643,-80.2315,Landslide,Landslide,small,Unknown
+6791,2015-02-21,NA,United States,US,Virginia,3884,Clifton Forge,2.3091,37.8116,-79.7989,Landslide,Landslide,small,Snowfall snowmelt
+6796,2015-02-21,NA,United States,US,Kentucky,3255,Prestonsburg,5.08152,37.6251,-82.7982,Landslide,Mudslide,medium,Snowfall snowmelt
+6801,2015-02-23,NA,United States,US,Kentucky,1416,Stearns,6.35327,36.7172,-84.5448,Landslide,Rockfall,small,Snowfall snowmelt
+6875,2015-03-15,NA,United States,US,Pennsylvania,2801,Aspinwall,0.87791,40.4836,-79.9043,Landslide,Other,small,Unknown
+6879,2015-03-17,NA,United States,US,Kentucky,6903,Pikeville,0.29989,37.478,-82.5158,Landslide,Unknown,medium,Unknown
+6886,2015-03-17,NA,United States,US,Kentucky,16325,Fort Thomas,0.7855,39.0779,-84.4388,Landslide,Mudslide,small,Unknown
+6888,2015-03-18,NA,United States,US,Ohio,3924,Wintersville,7.93943,40.4115,-80.7844,Landslide,Landslide,small,Unknown
+6893,2015-03-18,SA,Ecuador,EC,Loja,13035,Macará,18.88784,-4.3313,-79.7811,Landslide,Landslide,small,Continuous rain
+6900,2015-03-18,SA,Ecuador,EC,Loja,117796,Loja,1.82885,-4.0094,-79.2073,Landslide,Landslide,medium,Continuous rain
+6901,2015-03-18,SA,Ecuador,EC,Loja,18565,Catamayo,17.57187,-4.138,-79.4069,Landslide,Landslide,medium,Continuous rain
+6902,2015-03-18,SA,Ecuador,EC,Azuay,276964,Cuenca,10.16196,-2.866,-79.0892,Landslide,Landslide,medium,Continuous rain
+6914,2015-03-21,SA,Colombia,CO,Putumayo,4350,San Francisco,1.4794,1.1656,-76.8755,Landslide,Landslide,medium,Unknown
+6916,2015-05-18,SA,Colombia,CO,Antioquia,6428,Salgar,3.09014,5.9681,-76.0113,Landslide,Mudslide,large,Rain
+6918,2015-03-20,NA,United States,US,Arkansas,12943,Harrison,10.15474,36.1807,-93.203,Landslide,Landslide,small,Unknown
+6920,2015-03-14,NA,United States,US,Ohio,2620,Day Heights,2.40349,39.1537,-84.2361,Landslide,Landslide,small,Flooding
+6940,2015-06-19,NA,United States,US,Colorado,6900,Stratmoor,6.75748,38.7714,-104.8574,Landslide,Landslide,medium,Continuous rain
+6943,2015-06-17,NA,Costa Rica,CR,Alajuela,3010,La Fortuna,5.96634,10.44,-84.6089,Landslide,Landslide,small,Continuous rain
+6951,2015-06-21,NA,United States,US,Maryland,2953,Saint James,4.05258,39.544,-77.7175,Landslide,Mudslide,small,Downpour
+6952,2015-06-18,NA,United States,US,Oklahoma,2739,Longtown,19.40495,35.1087,-95.6457,Landslide,Mudslide,small,Continuous rain
+6953,2015-06-18,NA,United States,US,Pennsylvania,1432,Blawnox,2.15077,40.481,-79.8801,Landslide,Landslide,small,
+6954,2015-06-18,NA,United States,US,Oklahoma,2683,Davis,7.00621,34.4406,-97.128,Landslide,Landslide,small,Tropical cyclone
+6955,2015-06-16,NA,United States,US,Wyoming,9520,Cody,74.46097,44.4944,-109.9919,Landslide,mudslide,small,Downpour
+6956,2015-06-16,NA,United States,US,Arkansas,3684,Ozark,25.20737,35.7131,-93.8001,Landslide,Landslide,small,Continuous rain
+6957,2015-06-16,NA,United States,US,Pennsylvania,20978,Johnstown,0.59899,40.3315,-78.9253,Landslide,Landslide,small,Continuous rain
+6958,2015-06-15,NA,United States,US,Pennsylvania,1233,Milford,6.74021,40.5606,-75.1735,Landslide,Mudslide,small,Flooding
+6986,2015-06-13,SA,Colombia,CO,Cauca,1972,Jambaló,8.81287,2.8696,-76.3034,Landslide,Landslide,medium,Rain
+6987,2015-06-23,NA,United States,US,Pennsylvania,1569,Oakland,2.35897,40.9822,-80.3433,Landslide,Landslide,medium,Unknown
+6994,2015-04-29,NA,United States,US,Colorado,12088,Steamboat Springs,0.83297,40.4802,-106.8393,Landslide,Landslide,medium,Continuous rain
+7008,2015-06-27,NA,United States,US,New Mexico,1021,Cimarron,10.23698,36.5499,-104.8122,Landslide,Rockslide,medium,Unknown
+7009,2015-06-27,NA,United States,US,Pennsylvania,1320,West Conshohocken,0.98504,40.0707,-75.3278,Landslide,Mudslide,small,Downpour
+7019,2015-05-30,NA,United States,US,Utah,112488,Provo,2.90388,40.2506,-111.6324,Landslide,Landslide,small,Continuous rain
+7024,2015-05-31,NA,United States,US,Pennsylvania,6025,New Brighton,1.00035,40.7217,-80.3132,Landslide,Mudslide,small,Downpour
+7025,2015-05-29,NA,United States,US,Oklahoma,39223,Muskogee,12.21464,35.6601,-95.2882,Landslide,Mudslide,small,Downpour
+7030,2015-06-24,NA,United States,US,Wyoming,3009,Thermopolis,16.58878,43.5009,-108.164,Landslide,Landslide,medium,Downpour
+7046,2015-05-23,NA,United States,US,Oklahoma,1114,Talihina,33.62663,34.5208,-95.2859,Landslide,Landslide,small,Flooding
+7048,2015-05-21,NA,United States,US,Colorado,416427,Colorado Springs,2.193,38.8327,-104.8466,Landslide,Mudslide,medium,Continuous rain
+7049,2015-05-20,NA,United States,US,Wyoming,1271,West Yellowstone,48.56269,44.7184,-110.4966,Landslide,Rockfall,small,Downpour
+7051,2015-05-19,NA,United States,US,Colorado,3546,Lincoln Park,15.35824,38.2967,-105.2706,Landslide,Mudslide,small,Continuous rain
+7052,2015-05-19,NA,United States,US,Colorado,3582,Penrose,15.46134,38.5514,-105.0973,Landslide,Landslide,medium,Continuous rain
+7053,2015-05-19,NA,United States,US,Colorado,3582,Penrose,15.49683,38.5526,-105.0948,Landslide,Landslide,medium,Continuous rain
+7054,2015-05-20,NA,United States,US,Kentucky,2139,Whitesburg,2.84945,37.123,-82.7953,Landslide,Landslide,small,Unknown
+7055,2015-05-19,NA,Canada,CA,Ontario,22625,Owen Sound,1.84109,44.5687,-80.9204,Landslide,Mudslide,small,Unknown
+7056,2015-05-17,NA,Mexico,MX,Baja California,1173,La Esperanza [Granjas Familiares],6.46156,32.5196,-117.0898,Landslide,Landslide,medium,Rain
+7060,2015-05-13,NA,United States,US,Colorado,6680,Air Force Academy,8.38116,38.9218,-104.8365,Landslide,Landslide,small,Continuous rain
+7085,2015-06-30,NA,United States,US,Kentucky,2304,Rising Sun,1.04697,38.9424,-84.8459,Landslide,Landslide,small,Downpour
+7120,2015-04-27,NA,United States,US,Kentucky,4456,Hazard,2.49307,37.2685,-83.2082,Landslide,Landslide,small,Unknown
+7122,2015-04-23,NA,United States,US,Kentucky,2139,Whitesburg,0.0552,37.1184,-82.8262,Landslide,Mudslide,small,Downpour
+7124,2015-04-20,NA,United States,US,New York,8195,Delmar,2.22929,42.6404,-73.8216,Landslide,Landslide,medium,Construction
+7128,2015-04-20,NA,United States,US,Kentucky,3255,Prestonsburg,11.00729,37.6041,-82.6886,Landslide,Mudslide,small,Unknown
+7129,2015-04-20,NA,United States,US,Mississippi,9486,D'Iberville,0.98037,30.4273,-88.8807,Landslide,landslide,small,Continuous rain
+7130,2015-04-19,NA,United States,US,Pennsylvania,2633,West Newton,6.55886,40.1548,-79.7389,Landslide,Landslide,medium,Unknown
+7132,2015-04-17,NA,United States,US,Maryland,5439,Keyser,3.89837,39.4631,-79.009,Landslide,Landslide,small,Downpour
+7135,2015-04-18,NA,United States,US,West Virginia,13450,South Charleston,3.94457,38.3986,-81.7234,Landslide,Mudslide,small,Unknown
+7136,2015-04-17,NA,United States,US,Pennsylvania,1746,Cheswick,0.91573,40.5453,-79.809,Landslide,Landslide,small,Unknown
+7137,2015-04-17,NA,Canada,CA,Nova Scotia,2052,Digby,11.62624,44.5644,-65.6362,Landslide,,unknown,Unknown
+7143,2015-04-14,NA,United States,US,Kentucky,6903,Pikeville,8.67856,37.4038,-82.4931,Landslide,Mudslide,medium,Downpour
+7144,2015-04-14,NA,United States,US,Kentucky,3255,Prestonsburg,9.99553,37.5761,-82.7592,Landslide,Landslide,small,Downpour
+7145,2015-04-14,NA,United States,US,Kentucky,31364,Richmond,11.13705,37.8061,-84.3976,Landslide,Mudslide,small,Downpour
+7146,2015-04-14,NA,United States,US,Kentucky,5245,Williamsburg,9.77108,36.6878,-84.2444,Landslide,Landslide,small,Downpour
+7147,2015-04-14,NA,United States,US,Kentucky,486,Frenchburg,14.80972,37.9951,-83.4667,Landslide,Rockfall,small,Downpour
+7149,2015-04-14,NA,United States,US,Kentucky,3255,Prestonsburg,12.65382,37.5986,-82.8875,Landslide,Mudslide,medium,Downpour
+7150,2015-04-14,NA,United States,US,Kentucky,4456,Hazard,4.39348,37.2859,-83.2128,Landslide,Mudslide,small,Downpour
+7193,2015-07-13,NA,United States,US,West Virginia,994,Sutton,18.39748,38.499,-80.7205,Landslide,Landslide,small,Continuous rain
+7199,2015-07-14,NA,United States,US,Ohio,1551,Oak Hill,10.37446,38.9643,-82.4948,Landslide,Mudslide,small,Downpour
+7200,2015-07-14,NA,United States,US,Tennessee,6097,Erwin,7.88881,36.2032,-82.4673,Landslide,Landslide,small,Continuous rain
+7201,2015-07-14,NA,United States,US,West Virginia,1227,Clendenin,0.17162,38.4875,-81.3494,Landslide,Mudslide,small,Continuous rain
+7216,2015-07-13,NA,United States,US,West Virginia,1009,Webster Springs,9.96486,38.5653,-80.4459,Landslide,Landslide,small,Downpour
+7217,2015-07-13,NA,United States,US,West Virginia,1009,Webster Springs,0.16161,38.4807,-80.4138,Landslide,Landslide,small,downpour
+7219,2015-07-14,NA,United States,US,Kentucky,6903,Pikeville,10.52676,37.4078,-82.4405,Landslide,Landslide,small,Continuous rain
+7228,2015-07-19,NA,United States,US,California,57065,La Mesa,4.97056,32.7738,-117.1282,Landslide,Rockfall,small,Downpour
+7229,2015-07-19,NA,United States,US,California,20292,Ramona,4.85697,33.0742,-116.9029,Landslide,Landslide,small,Downpour
+7230,2015-07-19,NA,United States,US,California,1502,Julian,4.69959,33.098,-116.6468,Landslide,Landslide,small,Downpour
+7231,2015-07-19,NA,United States,US,California,10109,San Diego Country Estates,7.62002,33.0681,-116.7469,Landslide,Landslide,small,Downpour
+7232,2015-07-19,NA,United States,US,California,20292,Ramona,3.13754,33.05,-116.836,Landslide,Landslide,small,Downpour
+7233,2015-07-19,NA,United States,US,California,1006,Niland,53.76298,33.712,-115.3871,Landslide,Landslide,medium,Downpour
+7235,2015-07-18,NA,United States,US,Ohio,5338,Dayton,1.56996,39.1252,-84.4639,Landslide,Mudslide,small,Downpour
+7240,2015-07-18,NA,United States,US,California,51367,Yucaipa,10.37615,34.1036,-116.9702,Landslide,Rockfall,small,Downpour
+7257,2015-07-21,NA,United States,US,West Virginia,1638,Montgomery,1.33142,38.1838,-81.3139,Landslide,Landslide,small,Downpour
+7290,2015-07-27,NA,United States,US,Massachusetts,1318,Hatfield,3.49144,42.3902,-72.7216,Landslide,Mudslide,medium,Downpour
+7291,2015-07-27,NA,United States,US,Massachusetts,1222,Chesterfield,6.53153,42.443,-72.801,Landslide,Mudslide,small,Downpour
+7322,2015-08-13,NA,United States,US,Utah,1344,Woodland Hills,0.75074,40.0086,-111.6421,Landslide,Mudslide,small,Downpour
+7340,2015-08-15,NA,United States,US,Colorado,416427,Colorado Springs,3.81487,38.8113,-104.8545,Landslide,Landslide,small,Rain
+7345,2015-10-19,NA,Guatemala,GT,Guatemala,67994,Santa Catarina Pinula,3.96161,14.5572,-90.53,Landslide,Mudslide,small,Tropical cyclone
+7346,2015-10-19,NA,Guatemala,GT,Santa Rosa,3634,Santa María Ixhuatán,0.82332,14.1974,-90.2743,Landslide,Landslide,medium,Tropical cyclone
+7347,2015-10-19,NA,Guatemala,GT,Suchitepeque,2680,San Juan Bautista,3.47803,14.3855,-91.1789,Landslide,Landslide,medium,Rain
+7348,2015-07-19,NA,United States,US,California,193365,Moreno Valley,5.33395,33.9805,-117.2564,Landslide,Debris flow,medium,Downpour
+7399,2107-04-13,NA,United States,US,Pennsylvania,3165,Homestead,3.7449,40.4267,-79.9468,Landslide,Landslide,medium,Unknown
+7402,2016-01-29,SA,Colombia,CO,Huila,8044,Rivera,20.31227,2.7664,-75.074,Landslide,Landslide,small,Rain
+7403,2011-04-29,SA,Ecuador,EC,Pichincha,1399814,Quito,4.25486,-0.2633,-78.5061,Landslide,Landslide,medium,Rain
+7413,2015-09-27,NA,Guatemala,GT,Chimaltenango,16494,Patzicía,5.52205,14.6614,-90.9681,Landslide,Landslide,medium,Rain
+7414,2015-09-27,NA,Guatemala,GT,Guatemala,473080,Mixco,1.87009,14.6167,-90.6097,Landslide,Landslide,medium,Rain
+7415,2015-09-27,NA,Guatemala,GT,Guatemala,141455,Petapa,4.20726,14.5337,-90.5289,Landslide,Landslide,medium,Rain
+7416,2015-09-27,NA,Guatemala,GT,Sololá,3588,San Antonio Palopó,3.18658,14.7038,-91.0873,Landslide,Landslide,medium,Rain
+7417,2015-09-27,NA,Guatemala,GT,Sololá,2605,San Andrés Semetabaj,0.6704,14.744,-91.1344,Landslide,Landslide,medium,Rain
+7418,2015-09-27,NA,Guatemala,GT,Guatemala,994938,Guatemala City,3.80312,14.6317,-90.4792,Landslide,Landslide,medium,Rain
+7419,2015-09-27,NA,Guatemala,GT,Guatemala,994938,Guatemala City,1.6829,14.6297,-90.5025,Landslide,Landslide,medium,Rain
+7420,2015-09-27,NA,Guatemala,GT,Guatemala,994938,Guatemala City,2.08425,14.6219,-90.5119,Landslide,Landslide,medium,Rain
+7421,2015-09-27,NA,Guatemala,GT,Guatemala,994938,Guatemala City,3.25675,14.6277,-90.4862,Landslide,Landslide,medium,Rain
+7422,2015-09-27,NA,Guatemala,GT,Guatemala,994938,Guatemala City,3.49341,14.6268,-90.4842,Landslide,Landslide,medium,Rain
+7423,2015-09-27,NA,Guatemala,GT,Guatemala,994938,Guatemala City,1.83863,14.6217,-90.4956,Landslide,Landslide,medium,Rain
+7424,2015-09-27,NA,Guatemala,GT,Guatemala,994938,Guatemala City,1.57381,14.6281,-90.5065,Landslide,Landslide,medium,Rain
+7425,2015-09-27,NA,Guatemala,GT,Guatemala,994938,Guatemala City,1.70147,14.6429,-90.5352,Landslide,Landslide,medium,Rain
+7426,2015-09-27,NA,Guatemala,GT,Guatemala,994938,Guatemala City,3.00314,14.617,-90.4997,Landslide,Landslide,medium,Rain
+7427,2015-09-27,NA,Guatemala,GT,Quiché,79759,Chichicastenango,2.27725,14.9233,-91.1352,Landslide,Landslide,medium,Rain
+7429,2015-11-23,NA,Guatemala,GT,Guatemala,97172,Chinautla,2.66358,14.6881,-90.486,Landslide,Landslide,medium,Rain
+7432,2015-09-23,NA,Guatemala,GT,Sacatepéquez,3214,Santa Catarina Barahona,1.452,14.5558,-90.7998,Landslide,Landslide,medium,Continuous rain
+7433,2015-10-15,NA,Guatemala,GT,Alta Verapaz,4671,Cahabón,5.14479,15.5779,-89.7321,Landslide,Landslide,medium,Rain
+7435,2015-11-24,NA,Guatemala,GT,Guatemala,122194,Villa Canales,0.65744,14.4758,-90.5312,Landslide,Landslide,small,Rain
+7437,2015-11-24,NA,Belize,BZ,Cayo,13381,Belmopan,9.71758,17.2183,-88.8519,Landslide,Rockfall,small,Mining digging
+7438,2015-07-18,NA,El Salvador,SV,Santa Ana,10095,Ciudad Arce,1.1581,13.8464,-89.4502,Landslide,Landslide,small,Rain
+7442,2015-10-19,NA,El Salvador,SV,Sonsonate,9936,Juayúa,0.49346,13.8457,-89.7445,Landslide,Landslide,medium,Downpour
+7444,2015-10-29,NA,Costa Rica,CR,San José,26047,San Juan,0.72957,9.9574,-84.0879,Landslide,Landslide,medium,Rain
+7445,2015-09-17,NA,Mexico,MX,Veracruz,1005,Cruz Verde,2.478,19.1331,-97.1317,Landslide,Landslide,medium,Rain
+7446,2015-09-28,NA,Honduras,HN,Francisco Morazán ,1438,El Lolo,1.85897,14.1105,-87.2507,Landslide,Landslide,medium,Rain
+7447,2015-09-28,NA,Honduras,HN,Francisco Morazán ,850848,Tegucigalpa,3.25281,14.0651,-87.182,Landslide,Other,small,Downpour
+7449,2015-12-15,NA,Honduras,HN,Choluteca,1199,Corpus,0.36987,13.2861,-87.0329,Landslide,Rockfall,small,Rain
+7452,2015-11-16,NA,Panama,PA,Colón,29607,Cativá,0.63948,9.3626,-79.8221,Landslide,Landslide,medium,Rain
+7454,2015-10-16,NA,Honduras,HN,Comayagua,1389,El Sauce,7.28575,14.4837,-87.7152,Landslide,Rockfall,medium,Rain
+7455,2015-10-29,NA,Honduras,HN,Comayagua,4673,La Libertad,17.28613,14.9064,-87.593,Landslide,Landslide,medium,Continuous rain
+7456,2015-10-16,NA,Honduras,HN,Comayagua,1470,Concepción de Guasistagua,8.52584,14.5742,-87.7286,Landslide,Landslide,medium,Rain
+7459,2015-11-21,NA,Honduras,HN,Copán,1340,Ojos de Agua,1.39095,14.6893,-88.8098,Landslide,Landslide,medium,Rain
+7460,2015-09-25,NA,Honduras,HN,La Paz,1463,San José,4.69133,14.2801,-87.9369,Landslide,Landslide,medium,Rain
+7461,2015-09-24,NA,Honduras,HN,Copán,1452,Lucerna,5.89721,14.6,-88.9144,Landslide,Landslide,small,Rain
+7462,2015-09-25,NA,Honduras,HN,Ocotepeque,1416,La Labor,5.79867,14.481,-89.0537,Landslide,Landslide,small,Rain
+7463,2015-06-13,NA,Honduras,HN,Francisco Morazán ,2295,Villa Nueva,2.0083,14.0468,-87.1528,Landslide,Rockfall,medium,Rain
+7464,2015-09-28,NA,Honduras,HN,Santa Bárbara,1811,Ilama,2.87349,15.0909,-88.2072,Landslide,Rockfall,small,Rain
+7465,2015-05-13,NA,Mexico,MX,Guerrero,652136,Acapulco de Juárez,7.07138,16.8989,-99.9452,Landslide,Landslide,medium,Construction
+7466,2015-10-21,NA,Honduras,HN,Francisco Morazán ,1817,El Guapinol,3.54399,13.7645,-87.434,Landslide,Rockfall,medium,Unknown
+7467,2015-01-22,NA,Honduras,HN,Yoro,2188,La Sarrosa,6.66574,15.1754,-87.8164,Landslide,Rockfall,small,Continuous rain
+7468,2015-06-13,NA,Honduras,HN,Francisco Morazán ,1121,El Tablón ,3.12986,14.0592,-87.155,Landslide,Landslide,medium,Downpour
+7469,2015-12-16,NA,Mexico,MX,Tabasco,1732,Olcuatitán,8.93271,18.2341,-92.8901,Landslide,Riverbank collapse,medium,Flooding
+7471,2016-02-19,NA,Nicaragua,NI,Jinotega,51073,Jinotega,2.4488,13.0805,-85.9925,Landslide,Landslide,small,Rain
+7475,2015-09-27,NA,Nicaragua,NI,Madriz,1257,Las Sabanas,7.21108,13.4058,-86.6122,Landslide,Landslide,medium,Downpour
+7476,2015-09-27,NA,Nicaragua,NI,Madriz,1257,Las Sabanas,4.86364,13.3864,-86.6146,Landslide,Landslide,medium,Rain
+7480,2015-07-23,NA,Nicaragua,NI,Ogun State,16056,Siuna,1.68056,13.7484,-84.778,Landslide,Landslide,medium,Rain
+7481,2015-05-13,NA,Nicaragua,NI,Masaya,2111,San Juan de Oriente,1.5673,11.9013,-86.06,Landslide,Debris flow,large,Rain
+7482,2015-09-28,NA,Honduras,HN,Francisco Morazán ,850848,Tegucigalpa,0.91552,14.0737,-87.2087,Landslide,Landslide,small,Downpour
+7483,2015-09-28,NA,Honduras,HN,Francisco Morazán ,1449,Yaguacire,1.30583,14.0211,-87.2055,Landslide,Landslide,medium,Downpour
+7485,2015-09-20,NA,Honduras,HN,Francisco Morazán ,850848,Tegucigalpa,2.91326,14.1003,-87.226,Landslide,Riverbank collapse,small,Flooding
+7486,2015-10-27,NA,Costa Rica,CR,Alajuela,5745,Santo Domingo,3.21979,10.06,-84.1841,Landslide,Mudslide,small,Rain
+7487,2015-11-18,NA,Costa Rica,CR,Alajuela,47494,Alajuela,3.08916,10.0442,-84.2106,Landslide,Landslide,small,Unknown
+7488,2015-10-29,NA,Costa Rica,CR,Alajuela,11853,Naranjo,2.08469,10.114,-84.3892,Landslide,Landslide,medium,Downpour
+7489,2015-06-21,NA,Panama,PA,Bocas del Toro,993,Punta Peña,0.29869,8.907,-82.1867,Landslide,Landslide,small,Rain
+7490,2015-10-15,NA,Costa Rica,CR,Cartago,4060,,5.15142,9.7917,-83.9815,Landslide,Landslide,medium,Downpour
+7491,2015-03-20,NA,Costa Rica,CR,Cartago,6784,Cot,9.53493,9.9786,-83.8542,Landslide,Other,medium,Volcano
+7492,2015-03-18,NA,Costa Rica,CR,Cartago,26594,Cartago,2.94804,9.8815,-83.9401,Landslide,Landslide,medium,Downpour
+7493,2015-11-23,NA,Costa Rica,CR,Puntarenas,11680,Buenos Aires,0.35225,9.1464,-83.3268,Landslide,Landslide,small,Unknown
+7494,2015-09-25,NA,Costa Rica,CR,San José,335007,San José,1.16705,9.9402,-84.0771,Landslide,Landslide,small,Rain
+7497,2015-06-29,NA,Panama,PA,Bocas del Toro,22900,Changuinola,5.97977,9.388,-82.4858,Landslide,Landslide,small,Downpour
+7498,2015-06-29,NA,Panama,PA,Bocas del Toro,918,Valle del Risco,6.65185,9.2102,-82.3705,Landslide,Landslide,medium,Downpour
+7499,2015-12-21,NA,Panama,PA,Bocas del Toro,0,Pueblo Nuevo,3.92621,8.8543,-82.1825,Landslide,Mudslide,small,Rain
+7500,2015-05-24,NA,Panama,PA,Bocas del Toro,918,Valle del Risco,5.13913,9.2279,-82.3808,Landslide,Mudslide,medium,Rain
+7503,2015-11-23,NA,Panama,PA,Chiriquí,1908,Río Sereno,3.66775,8.7868,-82.8662,Landslide,Landslide,medium,Rain
+7504,2015-11-22,NA,Panama,PA,Chiriquí,0,Palmira Centro,0.90169,8.7463,-82.4569,Landslide,Landslide,medium,Rain
+7505,2015-08-26,NA,Panama,PA,Chiriquí,0,Breñón,0.37999,8.5772,-82.8232,Landslide,Landslide,medium,Continuous rain
+7508,2015-09-17,NA,Panama,PA,Coclé,0,Caballero,0.21605,8.5415,-80.1978,Landslide,Landslide,medium,Flooding
+7510,2015-08-31,NA,Panama,PA,Panamá,321501,San Miguelito,3.30848,9.0688,-79.4944,Landslide,Landslide,medium,Downpour
+7511,2015-08-31,NA,Panama,PA,Panamá,321501,San Miguelito,3.54386,9.0772,-79.4882,Landslide,Landslide,medium,Downpour
+7512,2015-09-22,NA,Panama,PA,Panamá,76815,Arraiján,1.80341,8.9496,-79.6336,Landslide,Landslide,medium,Downpour
+7514,2015-05-23,NA,Mexico,MX,Chiapas,3796,Santo Domingo,0.76257,15.0337,-92.1124,Landslide,Landslide,medium,Rain
+7515,2015-10-21,NA,Mexico,MX,Chiapas,19092,Motozintla de Mendoza,2.06743,15.3482,-92.2523,Landslide,Landslide,medium,Rain
+7516,2015-10-21,NA,Mexico,MX,Chiapas,18608,Emiliano Zapata,4.68443,17.7055,-91.7416,Landslide,Landslide,medium,Rain
+7518,2015-10-15,NA,Mexico,MX,Tabasco,32415,Tenosique de Pino Suárez,15.2226,17.4054,-91.2988,Landslide,Landslide,medium,Flooding
+7519,2016-02-24,NA,United States,US,Virginia,1371,Springville,8.58443,37.2699,-81.3724,Landslide,Landslide,medium,Unknown
+7520,2016-02-24,NA,United States,US,Pennsylvania,5951,Crafton,1.45894,40.4377,-80.083,Landslide,Rockfall,small,Rain
+7521,2016-02-15,NA,United States,US,Colorado,9614,Glenwood Springs,13.85194,39.5926,-107.1799,Landslide,Rockfall,medium,Freeze thaw
+7522,2016-02-24,NA,United States,US,Virginia,1128,Pembroke,3.21144,37.3444,-80.6203,Landslide,Rockfall,medium,Unknown
+7524,2016-02-21,NA,United States,US,West Virginia,51400,Charleston,6.43349,38.3989,-81.585,Landslide,Landslide,medium,Unknown
+7526,2016-02-24,NA,Canada,CA,Ontario,519949,Hamilton,2.00473,43.2372,-79.8324,Landslide,Rockfall,small,Freeze thaw
+7527,2016-01-28,NA,United States,US,North Carolina,1241,Blowing Rock,4.20387,36.1062,-81.6475,Landslide,Rockfall,medium,Unknown
+7528,2016-02-24,NA,United States,US,Ohio,1560,New Haven,6.83465,38.9519,-81.9082,Landslide,Rockfall,small,Rain
+7529,2016-02-27,NA,United States,US,Idaho,939,Cascade,22.78728,44.3127,-116.076,Landslide,Rockfall,small,Unknown
+7530,2016-02-27,NA,United States,US,Idaho,485,Idaho City,24.16064,44.104,-116.0033,Landslide,Rockfall,small,Rain
+7531,2016-02-14,NA,United States,US,Colorado,16887,Durango,22.57467,37.072,-107.8717,Landslide,Rockfall,small,Freeze thaw
+7532,2016-02-26,NA,United States,US,Tennessee,2020,Jacksboro,8.43321,36.3833,-84.2508,Landslide,Rockfall,small,Unknown
+7533,2016-02-27,NA,United States,US,West Virginia,2184,Bluewell,5.07093,37.3287,-81.3134,Landslide,Rockfall,small,Unknown
+7534,2015-11-29,NA,United States,US,North Carolina,1646,Tryon,7.69666,35.2207,-82.3216,Landslide,Mudslide,medium,Unknown
+7537,2016-02-22,NA,United States,US,West Virginia,51400,Charleston,6.84721,38.3987,-81.5848,Landslide,Mudslide,small,Unknown
+7539,2016-02-23,NA,United States,US,West Virginia,2406,Welch,14.19735,37.4096,-81.4268,Landslide,Landslide,small,Rain
+7540,2016-02-26,NA,United States,US,West Virginia,1048,Athens,12.00678,37.5011,-81.1093,Landslide,Rockfall,small,Unknown

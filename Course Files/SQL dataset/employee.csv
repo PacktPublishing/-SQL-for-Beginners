@@ -1,0 +1,98 @@
+id,name,first_name,last_name,gender,email,phone,occupation,salary,marital_status,dob,department
+29,Alen Hot,ALEN,HOT,Male,a.johnston@randatmail.com,219-2966-36,Multimedia artist,1462,Single,2003-01-02,Graphics Designer
+1,Sienna Johnston,SIENNA,JOHNSTON,Female,s.johnston@randatmail.com,692-9046-61,Broker,5816,Single,2005-03-31,Trading
+2,Robert Carroll,ROBERT,CARROLL,Male,r.carroll@randatmail.com,994-9132-81,Broker,2824,Single,1998-02-01,Trading
+3,Belinda Moore,BELINDA,MOORE,Female,b.moore@randatmail.com,404-3712-94,Data Scientist,60000,Married,1995-01-15,Data Science
+4,Julia Bennett,JULIA,BENNETT,Female,j.bennett@randatmail.com,547-1232-01,Programmer,1880,Single,2000-02-21,IT
+5,Amanda Harris,AMANDA,HARRIS,Female,a.harris@randatmail.com,418-1575-76,Programmer,5066,Single,1997-01-16,IT
+6,Amy Moore,AMY,MOORE,Female,a.moore@randatmail.com,340-3178-41,Project Manager,8972,Single,2002-01-22,IT
+7,Stuart Craig,STUART,CRAIG,Male,s.craig@randatmail.com,368-8562-08,Sales,2295,Single,2001-03-21,Sales
+8,Daisy Douglas,DAISY,DOUGLAS,Female,d.douglas@randatmail.com,094-8459-74,Call Center,7775,Married,1993-02-20,Call Center
+9,Stella Reed,STELLA,REED,Female,s.reed@randatmail.com,517-2624-71,Call Center,8649,Single,2003-04-06,Call Center
+10,Eleanor Riley,ELEANOR,RILEY,Female,e.riley@randatmail.com,347-0227-05,Procurement,631,Single,2004-03-11,Procurement
+11,Alisa Ryan,ALISA,RYAN,Female,a.ryan@randatmail.com,451-1928-24,Procurement,4770,Single,1998-02-18,Procurement
+12,Kevin Hall,KEVIN,HALL,Male,k.hall@randatmail.com,710-7011-02,Procurement,4230,Single,2005-03-06,Procurement
+13,Maria Taylor,MARIA,TAYLOR,Female,m.taylor@randatmail.com,230-0259-96,Billing,6979,Single,2005-03-11,Billing
+14,Paige Watson,PAIGE,WATSON,Female,p.watson@randatmail.com,251-6918-19,Billing,6319,Married,1999-01-05,Billing
+15,Bruce Hawkins,BRUCE,HAWKINS,Male,b.hawkins@randatmail.com,726-6787-11,Billing,9447,Single,1995-04-10,Billing
+16,Madaline Brown,MADALINE,BROWN,Female,m.brown@randatmail.com,650-9850-61,Billing,9146,Married,2004-03-10,Billing
+17,Blake Elliott,BLAKE,ELLIOTT,Male,b.elliott@randatmail.com,242-0392-79,Billing,6710,Single,2001-01-03,Billing
+18,Ashton West,ASHTON,WEST,Male,a.west@randatmail.com,664-8899-92,HR Lead,9205,Married,2005-01-23,HR
+19,Kevin Anderson,KEVIN,ANDERSON,Male,k.anderson@randatmail.com,797-8246-20,HR,6989,Single,1993-03-18,HR
+20,Brianna Smith,BRIANNA,SMITH,Female,b.smith@randatmail.com,202-3562-81,HR,6123,Married,2003-01-14,HR
+21,Garry Mason,GARRY,MASON,Male,g.mason@randatmail.com,004-3074-51,HR,1461,Single,1994-01-10,HR
+22,Carl Russell,CARL,RUSSELL,Male,c.russell@randatmail.com,075-8357-70,HR Head,9870,Married,2001-03-22,HR
+23,Derek Scott,DEREK,SCOTT,Male,d.scott@randatmail.com,793-9055-51,HR,3506,Married,1993-01-20,HR
+24,Rafael Chapman,RAFAEL,CHAPMAN,Male,r.chapman@randatmail.com,592-4129-99,Multimedia artist,6400,Married,1993-03-08,Graphics Designer
+25,Brooke Robinson,BROOKE,ROBINSON,Female,b.robinson@randatmail.com,324-4386-09,Multimedia artist,6722,Single,2005-02-05,Graphics Designer
+26,Natalie Davis,NATALIE,DAVIS,Female,n.davis@randatmail.com,926-3021-00,Multimedia artist,3506,Single,2004-04-01,Graphics Designer
+27,Darcy Williams,DARCY,WILLIAMS,Female,d.williams@randatmail.com,709-6966-58,Multimedia artist,1382,Married,1998-03-29,Graphics Designer
+28,Mary Wilson,MARY,WILSON,Female,m.wilson@randatmail.com,318-8518-82,Multimedia artist,2426,Single,2004-01-14,Graphics Designer
+30,Ryan Thompson,RYAN,THOMPSON,Male,r.thompson@randatmail.com,711-8731-79,Broker,3375,Married,1993-01-10,Trading
+31,Tyler Sullivan,TYLER,SULLIVAN,Male,t.sullivan@randatmail.com,628-4938-50,Broker,2999,Married,2000-01-27,Trading
+32,Spike Davis,SPIKE,DAVIS,Male,s.davis@randatmail.com,708-7724-75,Broker,7013,Single,1998-03-26,Trading
+33,Martin Hunt,MARTIN,HUNT,Male,m.hunt@randatmail.com,088-8604-51,Broker,4138,Single,1994-01-01,Trading
+34,Chelsea Wells,CHELSEA,WELLS,Female,c.wells@randatmail.com,737-9630-65,Broker,5675,Married,2004-03-08,Trading
+35,Vanessa Farrell,VANESSA,FARRELL,Female,v.farrell@randatmail.com,020-8045-73,Broker,7967,Single,1993-01-19,Trading
+36,Alexander Brown,ALEXANDER,BROWN,Male,a.brown@randatmail.com,706-7290-74,Broker,6822,Single,1999-03-12,Trading
+37,Isabella Carter,ISABELLA,CARTER,Female,i.carter@randatmail.com,981-5739-88,Broker,5029,Married,1999-01-09,Trading
+38,Tara Crawford,TARA,CRAWFORD,Female,t.crawford@randatmail.com,773-3072-00,Broker,3551,Married,2001-03-13,Trading
+39,Connie Ferguson,CONNIE,FERGUSON,Female,c.ferguson@randatmail.com,542-1988-60,Broker,1500,Married,1993-02-26,Trading
+40,Hailey Ellis,HAILEY,ELLIS,Female,h.ellis@randatmail.com,631-9486-50,Broker,4197,Single,1995-03-28,Trading
+41,Ellia Russell,ELLIA,RUSSELL,Female,e.russell@randatmail.com,027-4341-39,Broker,671,Married,1994-02-01,Trading
+42,Brianna Grant,BRIANNA,GRANT,Female,b.grant@randatmail.com,414-9116-20,Broker,5153,Married,2002-01-01,Trading
+43,Anna Bailey,ANNA,BAILEY,Female,a.bailey@randatmail.com,473-7326-16,Broker,8843,Single,2000-01-18,Trading
+44,James Morgan,JAMES,MORGAN,Male,j.morgan@randatmail.com,704-8980-99,Broker,7188,Single,2002-03-21,Trading
+45,Kirsten Kelley,KIRSTEN,KELLEY,Female,k.kelley@randatmail.com,940-7867-15,Broker,7654,Single,2005-01-22,Trading
+46,Darcy Smith,DARCY,SMITH,Female,d.smith@randatmail.com,529-6127-98,Broker,5964,Married,2001-03-29,Trading
+47,Victoria Barrett,VICTORIA,BARRETT,Female,v.barrett@randatmail.com,349-1170-33,Broker,3575,Single,2004-02-25,Trading
+48,Dale Myers,DALE,MYERS,Male,d.myers@randatmail.com,575-0292-27,Broker,6073,Single,2001-04-08,Trading
+49,Wilson Phillips,WILSON,PHILLIPS,Male,w.phillips@randatmail.com,094-7547-26,Broker,1928,Single,1999-01-06,Trading
+50,Annabella Barrett,ANNABELLA,BARRETT,Female,a.barrett@randatmail.com,359-1673-37,Broker,6294,Single,2000-01-26,Trading
+51,Dexter Owens,DEXTER,OWENS,Male,d.owens@randatmail.com,091-4518-49,Broker,1416,Single,2005-02-22,Trading
+52,Lyndon Carroll,LYNDON,CARROLL,Male,l.carroll@randatmail.com,440-5402-30,Broker,7993,Single,2003-01-13,Trading
+53,Edwin Howard,EDWIN,HOWARD,Male,e.howard@randatmail.com,037-2771-50,Data Scientist,55000,Married,1999-03-13,Data Science
+54,Daniel Barnes,DANIEL,BARNES,Male,d.barnes@randatmail.com,886-7950-25,Programmer,4336,Single,1999-03-19,IT
+55,Mary Morrison,MARY,MORRISON,Female,m.morrison@randatmail.com,941-3509-14,Programmer,8000,Married,2000-02-18,IT
+56,Adelaide Farrell,ADELAIDE,FARRELL,Female,a.farrell@randatmail.com,528-5828-00,Project Manager,2473,Married,1998-02-21,IT
+57,Daryl Rogers,DARYL,ROGERS,Male,d.rogers@randatmail.com,085-8250-57,Sales,7983,Single,2004-02-28,Sales
+58,Lily Cooper,LILY,COOPER,Female,l.cooper@randatmail.com,160-1137-26,Call Center,5072,Married,2002-01-16,Call Center
+59,Stella Bennett,STELLA,BENNETT,Female,s.bennett@randatmail.com,890-7025-37,Call Center,3540,Single,1997-01-31,Call Center
+60,Adelaide Harrison,ADELAIDE,HARRISON,Female,a.harrison@randatmail.com,409-3216-82,Procurement,681,Married,1997-01-19,Procurement
+61,Charlie Evans,CHARLIE,EVANS,Male,c.evans@randatmail.com,752-1506-52,Procurement,7796,Single,2002-02-10,Procurement
+62,Daisy Warren,DAISY,WARREN,Female,d.warren@randatmail.com,685-5383-88,Procurement,3821,Single,2004-01-28,Procurement
+63,Miranda Higgins,MIRANDA,HIGGINS,Female,m.higgins@randatmail.com,887-9549-29,Billing,3814,Married,1996-01-15,Billing
+64,Patrick Holmes,PATRICK,HOLMES,Male,p.holmes@randatmail.com,543-6359-07,Billing,944,Married,1999-04-01,Billing
+65,Florrie Roberts,FLORRIE,ROBERTS,Female,f.roberts@randatmail.com,810-9016-75,Billing,8875,Single,1993-02-18,Billing
+66,Tara Nelson,TARA,NELSON,Female,t.nelson@randatmail.com,460-8283-97,Billing,6738,Married,1993-01-26,Billing
+67,Roland Murphy,ROLAND,MURPHY,Male,r.murphy@randatmail.com,551-1124-01,Billing,7092,Single,2000-01-27,Billing
+68,Richard Stewart,RICHARD,STEWART,Male,r.stewart@randatmail.com,423-7927-26,HR,3109,Married,1993-01-06,HR
+69,Rubie Fowler,RUBIE,FOWLER,Female,r.fowler@randatmail.com,106-1456-53,HR,3758,Single,2004-01-05,HR
+70,Leonardo Hawkins,LEONARDO,HAWKINS,Male,l.hawkins@randatmail.com,984-4452-58,HR,3493,Married,2000-02-29,HR
+72,Catherine Dixon,CATHERINE,DIXON,Female,c.dixon@randatmail.com,003-7113-61,HR,4014,Married,1996-03-22,HR
+73,Eddy Scott,EDDY,SCOTT,Male,e.scott@randatmail.com,244-1738-30,HR,3427,Married,1997-03-14,HR
+74,Bradia Cole,BRADIA,COLE,Female,b.cole@randatmail.com,398-9190-66,Multimedia artist,5381,Single,2001-03-21,Graphics Designer
+75,Arianna Robinson,ARIANNA,ROBINSON,Female,a.robinson@randatmail.com,221-9581-59,Multimedia artist,6630,Married,2005-03-05,Graphics Designer
+76,Alda Morrison,ALDA,MORRISON,Female,a.morrison@randatmail.com,887-8429-11,Multimedia artist,6020,Married,2001-02-10,Graphics Designer
+77,Carla Crawford,CARLA,CRAWFORD,Female,c.crawford@randatmail.com,702-6396-05,Multimedia artist,9062,Married,2002-03-26,Graphics Designer
+78,Dainny Adams,DAINNY,ADAMS,Female,d.adams@randatmail.com,457-9525-77,Multimedia artist,8534,Single,1996-01-27,Graphics Designer
+79,Kevina Harrison,KEVINA,HARRISON,Female,k.harrison@randatmail.com,234-2915-78,Multimedia artist,2585,Married,1993-02-10,Graphics Designer
+81,Melissa Jones,MELISSA,JONES,Female,m.jones@randatmail.com,306-7918-97,Broker,9305,Married,1998-02-09,Trading
+82,Alana Bennett,ALANA,BENNETT,Female,a.bennett@randatmail.com,937-1389-57,Broker,6614,Single,2001-04-10,Trading
+83,Kimberly Ross,KIMBERLY,ROSS,Female,k.ross@randatmail.com,255-9674-67,Broker,8288,Married,2003-04-06,Trading
+84,Arnie Scott,ARNIE,SCOTT,Female,a.scott@randatmail.com,447-1546-03,Broker,7563,Married,2002-01-07,Trading
+85,Ash Wright,ASH,WRIGHT,Female,a.wright@randatmail.com,182-9528-45,Broker,4039,Single,2003-01-07,Trading
+86,Lydia Morris,LYDIA,MORRIS,Female,l.morris@randatmail.com,247-5200-62,Broker,863,Single,1995-01-12,Trading
+87,Paige Richards,PAIGE,RICHARDS,Female,p.richards@randatmail.com,406-1670-75,Broker,7801,Married,1993-02-04,Trading
+88,Violet Richards,VIOLET,RICHARDS,Female,v.richards@randatmail.com,066-9889-07,Broker,5867,Married,2002-03-16,Trading
+89,Alisa Russell,ALISA,RUSSELL,Female,a.russell@randatmail.com,741-6556-54,Broker,4425,Married,2000-02-05,Trading
+90,Alda Perry,ALDA,PERRY,Female,a.perry@randatmail.com,757-8107-31,Broker,8995,Single,2002-02-03,Trading
+91,Heather Carroll,HEATHER,CARROLL,Female,h.carroll@randatmail.com,151-2612-78,Broker,4603,Single,1996-03-25,Trading
+92,Brianna Stewart,BRIANNA,STEWART,Female,b.stewart@randatmail.com,181-3122-44,Broker,5471,Married,2001-04-05,Trading
+93,Willa Morgan,WILLA,MORGAN,Female,w.morgan@randatmail.com,416-1156-86,Broker,742,Single,2004-01-12,Trading
+94,Victoria Murphy,VICTORIA,MURPHY,Female,v.murphy@randatmail.com,148-3795-42,Broker,6572,Single,2004-03-12,Trading
+95,Caroline Parker,CAROLINE,PARKER,Female,c.parker@randatmail.com,081-1575-29,Broker,4486,Married,1993-02-28,Trading
+97,Alberta Perry,ALBERTA,PERRY,Female,a.perry@randatmail.com,512-5596-75,Broker,810,Single,1996-02-18,Trading
+80,Amber Hum,AMBER,HUM,Female,a.brown@randatmail.com,097-9856-63,Broker,1894,Married,2000-02-17,Trading
+71,David Hut,DAVID,HUT,Male,d.morgan@randatmail.com,745-8220-23,HR,7209,Married,1996-03-28,HR
+96,,HARHAR,MURPHY,Female,h.murphy@randatmail.com,498-5416-29,Broker,7973,Married,1995-01-27,Trading
